@@ -11,7 +11,11 @@ sovago.sandor@gmail.com
 
 ## Address
 VU Amsterdam
+
 FEWEB
+
 De Boelelaan 1105
+
 1081 HV Amsterdam
+
 Netherlands
