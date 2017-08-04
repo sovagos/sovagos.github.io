@@ -1,20 +1,18 @@
 # Jekyll workshop-template https://github.com/evanwill/workshop-template
 # based on minima theme https://github.com/jekyll/minima
 
-title: go-go gh-pages!
+title: Sándor Sóvágó
 description: > 
   Learn about GitHub pages and Jekyll. 
 keywords: "github, github-pages, websites, static gen, hosting, html, workshop, gh-pages"
 
-url: "https://evanwill.github.io/go-go-ghpages" 
+url: "https://sovagos.github.io/site" 
 
 # author settings for cc-by
-author: evan will
-github_username: evanwill
+author: Sandor Sovago
+github_username: sovagos
 pub_year: 2017
-repo: "https://github.com/evanwill/go-go-ghpages"
-
-google_analytics: UA-74844011-1
+repo: "https://github.com/sovagos/site"
 
 # Build settings
 markdown: kramdown
