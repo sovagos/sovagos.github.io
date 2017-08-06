@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div id = "left> 
+<div id = "left"> 
     <img src="{{ site.url }}/images/Sovagopic2.jpg" alt="picture" style="width:45%;" >
 </div>
 
