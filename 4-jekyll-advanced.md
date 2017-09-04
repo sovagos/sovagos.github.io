@@ -12,7 +12,7 @@ sovago.sandor@gmail.com
 ## Address
 
 Vrije Universiteit Amsterdam  
-School of Business and Economics
+School of Business and Economics  
 De Boelelaan 1105  
 1081 HV Amsterdam  
 Netherlands
