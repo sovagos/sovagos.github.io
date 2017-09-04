@@ -3,4 +3,4 @@ layout: default
 title: CV
 ---
 
-Download [CV](https://drive.google.com/open?id=0B5oIYsrDXDoXRVdIQ3MwS2NrelU). (Last updated: August, 2017)
+Download [CV](https://drive.google.com/file/d/0B5oIYsrDXDoXS0EyZXRWWkhvaVU/view?usp=sharing). (Last updated: September, 2017)
