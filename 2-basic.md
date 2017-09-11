@@ -3,12 +3,12 @@ layout: default
 title: Teaching
 ---
 
-<p align = "justify"> I have been instructing several courses in <b>Economics</b> and <b>Econometrics</b> on both undergraduate and graduate-level as a teaching assisant over the recent years. I won the <a href = "http://www.tinbergen.nl/student-council/teaching-assistant-and-lecturer-of-the-year/">Teaching Assistant of the Year Award</a> at Tinbergen Institute in 2015, and I was nominated for the Best Lecturer Award at Vrije University Amsterdam in 2017. </p> 
+<p align = "justify"> I have been instructing several courses in <b>Economics</b> and <b>Econometrics</b> on both undergraduate- and graduate-level as a teaching assistant in recent years. I won the <a href = "http://www.tinbergen.nl/student-council/teaching-assistant-and-lecturer-of-the-year/">Teaching Assistant of the Year Award</a> at Tinbergen Institute in 2015, and I was nominated for the Best Lecturer Award at Vrije University Amsterdam in 2017. </p> 
 I am thrilled to debut as a lecturer for the Microeconomics and Methods course in October, 2017.
 
 ### **Current courses**
 Undergraduate
-  * *Microeconomics and Methods*, BA in Philosophy, Politics, and Economics, Vrije Universiteit Amsterdam (VU)
+  * *Microeconomics and Methods*, BA in Philosophy, Politics, and Economics, Vrije Universiteit Amsterdam (VU)  
   
 Graduate 
   * *Advanced Methods for Applied Economic Research*, MA in Economics, VU
