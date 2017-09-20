@@ -2,9 +2,10 @@
 layout: default
 ---
 
+
 <table style="width:100%">
   <tr>
-    <td><img src="{{ site.url }} /images/IMG_5500-Bearbeitet.jpg" alt="picture" style="width:90%;" ></td>
+    <td><img src="{{ site.url }}/images/IMG_5500-Bearbeitet.jpg" alt="picture" style="width:90%;" ></td>
     <td align = "justify"> Welcome, <br> <br> I am a PhD candidate in Economics at the <a href="http://vu-economics.nl">Vrije Universiteit Amsterdam</a> and <a href="http://tinbergen.nl">Tinbergen Institute</a>, advised by <a href="http://personal.vu.nl/b.vander.klaauw/">Bas van der Klaauw</a> and <a href="https://sites.google.com/site/thomasbuser/">Thomas Buser</a>. <br> <br> My research interest lies in <b>applied microeconomics</b>, in particular, I am passionate about policy evaluation in the fields of education economics, labor economics, and market design.</td> 
   </tr>
   <tr>
