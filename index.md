@@ -2,7 +2,6 @@
 layout: default
 ---
 
-
 <table style="width:100%">
   <tr>
     <td><img src="{{ site.url }}/images/IMG_5500-Bearbeitet.jpg" alt="picture" style="width:90%;" ></td>
@@ -10,5 +9,6 @@ layout: default
   </tr>
   <tr>
     <td></td>
-    <td align = "justify"><br> My job market paper, titled, <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2993538">Obvious Mistakes in a Strategically Simple College Admissions Environment</a> provides direct field evidence on dominated-strategy play in college admissions. The paper shows that applicants whose expected cost of making an obvious mistake is low, are more likely to make obvious mistakes. <br> <br> I will be available for interviews at the SAEe meeting in Barcelona and at the ASSA Annual Meeting in Philadelphia. <br> <br> On this site, you can find out more about <a href="https://sovagos.github.io/1-research.html">my research</a>, learn about my <a href="https://sovagos.github.io/2-basic.html">teaching activity</a>, read my <a href="https://sovagos.github.io/3-CV.html">academic CV</a>, or <a href="https://sovagos.github.io/4-jekyll-advanced.html">get in touch</a>. </td> 
+    <td align = "justify"><br> My job market paper, titled, <a href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2993538">Obvious Mistakes in a Strategically Simple College Admissions Environment</a> provides direct field evidence on dominated-strategy play in college admissions. The paper shows that applicants whose expected cost of making an obvious mistake is low, are more likely to make obvious mistakes. <br> <br> I will be available for interviews at the SAEe meeting in Barcelona and the ASSA Annual Meeting in Philadelphia. <br> <br> On this site, you can find out more about <a href="https://sovagos.github.io/1-research.html">my research</a>, learn about my <a href="https://sovagos.github.io/2-basic.html">teaching activity</a>, read my <a href="https://sovagos.github.io/3-CV.html">academic CV</a>, or <a href="https://sovagos.github.io/4-jekyll-advanced.html">get in touch</a>. </td> 
+</tr>
 </table>
