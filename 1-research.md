@@ -12,3 +12,8 @@ title: Research
 # Work in Progress
 ### Priority Rules in School Assignment
 (joint with Monique de Haan, Pieter Gautier, Hessel Oosterbeek, and Bas van der Klaauw)
+
+### The Impact of Elite High Schools on Academic Performance in Hungary 
+(joint with János Divényi)
+
+### The Effect of the UI Benefit on Labor Market Outcomes - Regression Kink Evidence from the Netherlands
