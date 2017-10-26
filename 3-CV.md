@@ -19,6 +19,6 @@ Download [CV](https://drive.google.com/file/d/0B5oIYsrDXDoXcGdYQWFOYTgwWDA/view?
 
 ### Relevant Positions
 
-  * 2017: Economist Intern, Amazon, Berlin
-  * 2013: Consultant, The World Bank Group, Vienna Financial Advisory Center, Vienna
+  * 2017 (Summer): Economist Intern, Amazon, Berlin
+  * 2013 (Spring): Consultant, The World Bank Group, Vienna Financial Advisory Center, Vienna
   * 2009-2012: Analyst, Central Bank of Hungary, Department of Financial Stability, Budapest
