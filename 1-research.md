@@ -13,7 +13,7 @@ title: Research
 
 # Work in Progress
 ### Priority Rules in School Assignment
-(joint with Monique de Haan, Pieter Gautier, Hessel Oosterbeek, and Bas van der Klaauw)
+(joint with [Monique de Haan](http://www.moniquedehaan.nl/), [Pieter Gautier](https://sites.google.com/site/pietgautier/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
 
 ### The Impact of Elite High-Schools on Academic Performance: A Non-Parametric Bounds Approach
 (joint with [János Divényi](http://divenyijanos.github.io/))
