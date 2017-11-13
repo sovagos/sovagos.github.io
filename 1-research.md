@@ -15,10 +15,9 @@ title: Research
 ## Priority Rules in School Assignment
 (joint with [Monique de Haan](http://www.moniquedehaan.nl/), [Pieter Gautier](https://sites.google.com/site/pietgautier/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
 <br>
-
 <div style="text-align: justify"> The Student-proposing Deferred Acceptance Mechanism (DA) does not respond to students’ cardinal preferences, which entails inefficiencies. However, DA complemented with priority rules that are correlated with the intensity of student preferences may overcome these inefficiencies. We combine administrative and survey data on school choice and student preferences from the school district of Utrecht to study the effect of priority rules in school assignment on student welfare. We compare student welfare under different school assignment mechanisms: DA with random tie-breaking, DA with priority rules, and choice-augmented DA. In the choice-augmented DA mechanism, students submit a rank-ordered list of schools and name a target school where they have priority (Abdulkadiroglu et al., 2015). We consider three priority rules: distance priority, sibling priority, and priority of high-achieving students in academicallyoriented high-schools. First, we show that these priorities are correlated with students’ ordinal and cardinal preferences. Second, by comparing counterfactual allocations, we find that choice-augmented DA results in a minor welfare improvement relative to DA. DA complemented with distance-to-school-based priority yields the highest student welfare. Survey-based and estimated measures of cardinal utility are highly correlated and rank the different school assignment mechanisms similarly. </div>
 <br>
-<div style="text-align: justify"> Presentations: SaM Meeting Bristol; ACAM Work in Progress, Amsterdam.  </div>
+<div style="text-align: justify"> Presentations: SaM Meeting, Bristol; ACAM Work in Progress, Amsterdam.  </div>
 <br>
 ## The Impact of Elite High-Schools on Academic Performance: A Non-Parametric Bounds Approach
 (joint with [János Divényi](http://divenyijanos.github.io/))
