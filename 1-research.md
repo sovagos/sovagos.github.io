@@ -18,8 +18,8 @@ title: Research
 
 <div style="text-align: justify"> The Student-proposing Deferred Acceptance Mechanism (DA) does not respond to students’ cardinal preferences, which entails inefficiencies. However, DA complemented with priority rules that are correlated with the intensity of student preferences may overcome these inefficiencies. We combine administrative and survey data on school choice and student preferences from the school district of Utrecht to study the effect of priority rules in school assignment on student welfare. We compare student welfare under different school assignment mechanisms: DA with random tie-breaking, DA with priority rules, and choice-augmented DA. In the choice-augmented DA mechanism, students submit a rank-ordered list of schools and name a target school where they have priority (Abdulkadiroglu et al., 2015). We consider three priority rules: distance priority, sibling priority, and priority of high-achieving students in academicallyoriented high-schools. First, we show that these priorities are correlated with students’ ordinal and cardinal preferences. Second, by comparing counterfactual allocations, we find that choice-augmented DA results in a minor welfare improvement relative to DA. DA complemented with distance-to-school-based priority yields the highest student welfare. Survey-based and estimated measures of cardinal utility are highly correlated and rank the different school assignment mechanisms similarly. </div>
 <br>
-<div style="text-align: justify"> Presentations: SaM Meeting Bristol (2017); ACAM Work in Progress, Amsterdam (2017)  </div>
-
+<div style="text-align: justify"> Presentations: SaM Meeting Bristol; ACAM Work in Progress, Amsterdam.  </div>
+<br>
 ## The Impact of Elite High-Schools on Academic Performance: A Non-Parametric Bounds Approach
 (joint with [János Divényi](http://divenyijanos.github.io/))
 
@@ -29,6 +29,6 @@ title: Research
 
 <div style="text-align: justify">  This paper studies the impact of the size of unemployment insurance (UI) benefit on labor market outcomes. To estimate the causal effect of the UI benefit on unemployment duration and re-employment job quality, I exploit the kink caused by the capped UI benefit policy rule. The fuzzy regression kink design estimates suggest that more generous UI increases the duration of receiving UI benefits and the time that unemployed workers need to find a new job. However, there is no evidence that the UI benefit improves re-employment wages or the number of working hours. I assess various aspects of the optimality of the Dutch UI system by calibrating the Baily-Chetty formula. </div>
 <br>
-<div style="text-align: justify"> Presentations: Workshop of the Centre for Research in Active Labour Market Policy Effects (CAFE), Denmark (2015); Annual Conference of the Hungarian Society of Economists, Budapest (2014); Tinbergen PhD Lunch Seminar, Amsterdam (2014); ACAM Work in Progress, Amsterdam (2014)  </div>
+<div style="text-align: justify"> Presentations: Workshop of the Centre for Research in Active Labour Market Policy Effects (CAFE), Denmark; Annual Conference of the Hungarian Society of Economists, Budapest; Tinbergen PhD Lunch Seminar, Amsterdam; ACAM Work in Progress, Amsterdam. </div>
 
 
