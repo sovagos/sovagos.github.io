@@ -5,16 +5,16 @@ title: Teaching
 
 <p align = "justify"> I have been instructing a wide range of courses in <b>Economics</b> and <b>Econometrics</b> both at the undergraduate and graduate level as a teaching assistant in recent years. My teaching performance was acknowledged by the  <a href = "http://www.tinbergen.nl/student-council/teaching-assistant-and-lecturer-of-the-year/">Teaching Assistant of the Year Award</a> at the Tinbergen Institute in 2014, and the nomination for the Best Lecturer Award at the Vrije Universiteit Amsterdam in 2017. </p> 
  
-I am thrilled to debut as a lecturer for the Microeconomics and Methods course in October, 2017.
-
 ### **Current courses**
 Undergraduate
-  * *Empirical Economics*, BA in Econometrics and Operation Research, Vrije Universiteit Amsterdam (VU)
+  * *Quantitative Research Methods III*, BA in Business and Economics, VU; 2018 
+  
   
 ### **Past courses**
 Undergraduate
+
   * *Microeconomics and Methods*, BA in Philosophy, Politics, and Economics, VU; 2017
-  * *Empirical Economics*, BA in Econometrics and Operation Research, VU; 2016  
+  * *Empirical Economics*, BA in Econometrics and Operation Research, VU; 2016, 2017  
   * *Introduction to Econometrics*, BA, Amsterdam University College (AUC); 2015, 2016, 2017
   * *Economics for the Global Era*, BA in International Business Administration, VU; 2015
   * *International Trade, Growth and Development*, BA, AUC; 2015
