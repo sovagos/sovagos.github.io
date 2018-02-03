@@ -4,7 +4,7 @@ title: Research
 ---
 
 # Working Papers
-## Obvious Mistakes in a Strategically Simple College Admissions Environment (Job Market Paper)
+## Obvious Mistakes in a Strategically Simple College Admissions Environment
 (joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
 <div style="text-align: justify"> In a centralized marketplace that was designed to be simple, we identify participants whose choices are dominated. Using administrative data from Hungary, we show that college applicants make <i>obvious mistakes</i>: they forgo the free opportunity to receive a tuition waiver worth thousands of dollars. At least 10 percent of the applicants made such mistakes in 2013. Costly mistakes have externalities: they transfer tuition waivers from high- to low-socioeconomic status students, and increase the number of students attending college. To shed light on the mechanisms underlying mistakes, we exploit a reform that substantially increased the selectivity of admission with financial aid in some fields of study. Increased admission selectivity raises the likelihood of making obvious mistakes, especially among high-socioeconomic status and low-achieving applicants. Our results suggest that mistakes are more common when their expected cost is lower. Still, the average cost of a mistake in 2013 was 114-365 dollars. </div> ([link](https://ssrn.com/abstract=2993538)) 
