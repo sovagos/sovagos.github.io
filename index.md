@@ -11,6 +11,6 @@ layout: default
   </tr>
   <tr>
     <td></td>
-    <td align = "justify"><br> On this site, you can find out more about <a href="https://sovagos.github.io/1-research.html">my research</a>, learn about my <a href="https://sovagos.github.io/2-basic.html">teaching activity</a>, read my <a href="https://sovagos.github.io/3-CV.html">academic CV</a>, or <a href="https://sovagos.github.io/4-contact.html">get in touch with me</a>. </td> 
+    <td align = "justify"><br> On this site, you can find out more about <a href="https://sovagos.github.io/1-research.html">my research</a>, learn about my <a href="https://sovagos.github.io/2-basic.html">teaching activity</a>, read my <a href="https://sovagos.github.io/3-CV.html">academic CV</a>, or <a href="https://sovagos.github.io/5-contact.html">get in touch with me</a>. </td> 
 </tr>
 </table>
