@@ -3,12 +3,9 @@ layout: default
 title: Teaching
 ---
 
-<p align = "justify"> I have been instructing a wide range of courses in <b>Economics</b> and <b>Econometrics</b> both at the undergraduate and graduate level as a teaching assistant in recent years. My teaching performance was acknowledged by the  <a href = "http://www.tinbergen.nl/student-council/teaching-assistant-and-lecturer-of-the-year/">Teaching Assistant of the Year Award</a> at the Tinbergen Institute in 2014, and the nomination for the Best Lecturer Award at the Vrije Universiteit Amsterdam in 2017. </p> 
- 
 ### **Current courses**
 Undergraduate
   * *Quantitative Research Methods III*, BA in Business and Economics, VU; 2018 
-  
   
 ### **Past courses**
 Undergraduate
