@@ -7,7 +7,7 @@ layout: default
   <col width="80%">
   <tr>
     <td><img src="{{ site.url }}/images/IMG_5500-Bearbeitet_potre.jpg" alt="picture" style="width:90%;" ></td>
-    <td align = "justify"> Welcome, <br> <br> I am a PhD candidate in Economics at the <a href="http://vu-economics.nl">Vrije Universiteit Amsterdam</a> and <a href="http://tinbergen.nl">Tinbergen Institute</a>, advised by <a href="http://personal.vu.nl/b.vander.klaauw/">Bas van der Klaauw</a> and <a href="https://sites.google.com/site/thomasbuser/">Thomas Buser</a>. <br> <br> In August 2018, I will be joining the University of Groningen as an assistant professor. <br> <br> I am an <b>applied microeconomist</b> with a particular interest in policy evaluation in the fields of education economics, labor economics, and market design.</td> 
+    <td align = "justify"> Welcome, <br> <br> I am a PhD candidate in Economics at the <a href="http://vu-economics.nl">Vrije Universiteit Amsterdam</a> and <a href="http://tinbergen.nl">Tinbergen Institute</a>, advised by <a href="http://personal.vu.nl/b.vander.klaauw/">Bas van der Klaauw</a> and <a href="https://sites.google.com/site/thomasbuser/">Thomas Buser</a>. My main research interests focus on policy evaluation in the fields of education economics, labor economics, and market design. <br> <br> In August 2018, I will be joining the University of Groningen as an assistant professor. </td> 
   </tr>
   <tr>
     <td></td>
