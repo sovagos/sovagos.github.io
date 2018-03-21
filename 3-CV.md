@@ -14,8 +14,8 @@ Download [CV](https://drive.google.com/file/d/0B5oIYsrDXDoXVnQ3QkxmeDN5bG8/view?
 
 ### Research Visits
 
-  * 2016 (Spring): Pennsylvania State University (hosted by Ran I. Shorrer)
-  * 2015 (Spring): London School of Economics (hosted by Wouter den Haan)
+  * 2017 (Spring): Pennsylvania State University (hosted by Ran I. Shorrer)
+  * 2016 (Spring): London School of Economics (hosted by Wouter den Haan)
 
 ### Relevant Positions
 
