@@ -4,10 +4,10 @@ title: Research
 ---
 
 # Working Papers
-## Obvious Mistakes in a Strategically Simple College Admissions Environment
+## Obvious Mistakes in a Strategically Simple College Admissions Environment: Causes and Consequences
 (joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
-<div style="text-align: justify"> Although many centralized school admission systems use strategically simple mechanisms, applicants often make dominated choices. Using administrative data from Hungary, we show that many college applicants forgo the free opportunity to receive a tuition waiver. We provide causal evidence that applicants make more such mistakes when applying to programs where tuition waivers are more selective. A non-negligible share of these mistakes are consequential, costing applicants approximately 3,000 dollars. Costly mistakes transfer waivers from high- to low-socioeconomic status students, and increase the number of students attending college. Our results suggest that mistakes are more common when their expected cost is lower. </div> ([link](https://ssrn.com/abstract=2993538)) 
+<div style="text-align: justify"> Although many centralized school admission systems use strategically simple mechanisms, applicants often make dominated choices. Using administrative data from Hungary, we show that many college applicants forgo the free opportunity to receive a tuition waiver. We provide causal evidence that applicants make more such mistakes when applying to programs where tuition waivers are more selective. A non-negligible share of these mistakes are consequential, costing applicants approximately 3,000 dollars. Costly mistakes transfer waivers from high- to low-socioeconomic status students, and increase the number of admitted students. Our results suggest that mistakes are more common when their expected utility cost is lower. </div> ([link](https://ssrn.com/abstract=2993538)) 
 
 # Work in Progress
 ## Priority Rules in School Assignment
