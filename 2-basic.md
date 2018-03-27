@@ -4,12 +4,11 @@ title: Teaching
 ---
 
 ### **Current courses**
-Undergraduate
-  * *Quantitative Research Methods III*, BA in Business and Economics, VU; 2018 
   
 ### **Past courses**
 Undergraduate
 
+  * *Quantitative Research Methods III*, BA in Business and Economics, VU; 2018 
   * *Microeconomics and Methods*, BA in Philosophy, Politics, and Economics, VU; 2017
   * *Empirical Economics*, BA in Econometrics and Operation Research, VU; 2016, 2017  
   * *Introduction to Econometrics*, BA, Amsterdam University College (AUC); 2015, 2016, 2017
