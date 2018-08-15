@@ -11,8 +11,8 @@ s.sovago@rug.nl
 
 ## Address
 
-University of Groningen 
-Department of Economics, Econometrics and Finance 
-Nettelbosje 2 
-9747 AE Groningen 
+University of Groningen  
+Department of Economics, Econometrics and Finance  
+Nettelbosje 2  
+9747 AE Groningen  
 Netherlands 
