@@ -4,15 +4,15 @@ title: Contact
 ---
 
 ## E-mail
-sovago.sandor@gmail.com
+s.sovago@rug.nl
 
 ## Telephone
-+31-20-598-1233
++31-050-363-2531
 
 ## Address
 
-Vrije Universiteit Amsterdam  
-School of Business and Economics  
-De Boelelaan 1105  
-1081 HV Amsterdam  
-Netherlands
+University of Groningen 
+Department of Economics, Econometrics and Finance 
+Nettelbosje 2 
+9747 AE Groningen 
+Netherlands 
