@@ -3,9 +3,13 @@ layout: default
 title: CV
 ---
 
-Download [CV](https://drive.google.com/file/d/0B5oIYsrDXDoXVnQ3QkxmeDN5bG8/view?usp=sharing). (Last updated: November, 2017)
+Download [CV](https://drive.google.com/file/d/0B5oIYsrDXDoXVnQ3QkxmeDN5bG8/view?usp=sharing). (Last updated: August, 2018)
 
 ## Summary
+### Employment
+
+* 2018 - : Assistant Professor (tenure-track), University of Groningen, Department of Economics, Econometrics and Finance
+
 ### Education
 
   * 2014 - 2018 (expected): PhD in Economics, Vrije Universiteit Amsterdam
