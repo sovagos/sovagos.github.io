@@ -13,4 +13,8 @@ layout: default
     <td></td>
     <td align = "justify"><br> On this site, you can find out more about <a href="https://sovagos.github.io/1-research.html">my research</a>, learn about my <a href="https://sovagos.github.io/2-basic.html">teaching activity</a>, read my <a href="https://sovagos.github.io/3-CV.html">academic CV</a>, or <a href="https://sovagos.github.io/5-contact.html">get in touch with me</a>. </td> 
 </tr>
+  <tr>
+    <td></td>
+    <td align = "justify"><br> <b>New!</b> <a href = https://www.dropbox.com/s/78qigdswxd8ri8b/segregation2018sep.pdf?dl=0> Why are schools segregated? Evidence from the secondary-school match in Amsterdam </a> (joint with Hessel Oosterbeek and Bas van der Klaauw) </td> 
+</tr>
 </table>
