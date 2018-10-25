@@ -16,4 +16,5 @@ layout: default
     <tr>
      <td></td>
     <td align = "justify"><br> <b>New!</b> <a href = "https://www.dropbox.com/s/78qigdswxd8ri8b/segregation2018sep.pdf?dl=0"> Why are schools segregated? Evidence from the secondary-school match in Amsterdam </a> (joint with Hessel Oosterbeek and Bas van der Klaauw) </td> 
+     </tr>
 </table>
