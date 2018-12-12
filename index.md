@@ -16,8 +16,8 @@ layout: default
      <tr>
      <td></td>
      <td align = "justify"><br> <b>New!</b> <a href = "https://www.dropbox.com/s/78qigdswxd8ri8b/segregation2018sep.pdf?dl=0"> Why are schools segregated? Evidence from the secondary-school match in Amsterdam </a> (joint with Hessel Oosterbeek and Bas van der Klaauw) </td> 
-     </tr>
      <tr>
+     </tr>
      <td></td>
      <td align = "justify"><br> <b>Revised!</b> <a href = "https://ssrn.com/abstract=2993538"> Obvious mistakes in a strategically simple college admissions environment: causes and consequences </a> (joint with Ran I. Shorrer) </td> 
 </table>
