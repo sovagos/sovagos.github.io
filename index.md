@@ -19,5 +19,5 @@ layout: default
      <tr>
      </tr>
      <td></td>
-     <td align = "justify"><br> <b>Revised!</b> <a href = "https://ssrn.com/abstract=2993538"> Obvious mistakes in a strategically simple college admissions environment: causes and consequences </a> (joint with Ran I. Shorrer) </td> 
+     <td align = "justify"><br> <b>Revised!</b> <a href = "https://drive.google.com/file/d/1HS4ZtgHSRM39tnn7m1wk17kTKA-mEF0M/view?usp=sharing"> Obvious mistakes in a strategically simple college admissions environment: causes and consequences </a> (joint with Ran I. Shorrer) </td> 
 </table>
