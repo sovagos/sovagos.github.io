@@ -12,7 +12,7 @@ Download [CV](https://drive.google.com/file/d/1Q8RJnOpjQtBtJVTR9ylf3eYWtdSlYfjH/
 
 ### Education
 
-  * 2014 - 2019 (expected): PhD in Economics, Vrije Universiteit Amsterdam
+  * 2014 - 2019: PhD in Economics, Vrije Universiteit Amsterdam
   * 2012 - 2014: MPhil in Economics (cum laude), Tinbergen Institute
   * 2005 - 2010: MSc in Economics, Corvinus University of Budapest
 
