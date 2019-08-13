@@ -17,6 +17,12 @@ Media: [Vox Podcast](https://voxeu.org/vox-talks/why-are-schools-segregated)
 
 <div style="text-align: justify"> Although many centralized school assignment systems use strategically simple mechanisms, applicants often make dominated choices. Using administrative data from Hungary, we show that many college applicants forgo the free opportunity to receive a tuition waiver. Using two empirical strategies, we provide causal evidence that applicants make more such mistakes when applying to programs where tuition waivers are more selective. First, exploiting a reform that increased the selectivity of admission with a tuition waiver in some programs, we find that the rate of mistakes quadrupled. Second, we show that applicants that apply to multiple programs are more likely to make mistakes in their applications to more selective programs. A non-negligible share of these mistakes are consequential, costing applicants more than 3,000 dollars on average. Costly mistakes transfer tuition waivers from high- to low-socioeconomic status students, and increase the number of students admitted to college. Our results suggest that mistakes are more common when their expected utility cost is lower. </div> ([link](https://drive.google.com/file/d/1HS4ZtgHSRM39tnn7m1wk17kTKA-mEF0M/view?usp=sharing)) 
 
+# Book Chapters
+## Oorzaken van schoolsegregatie in Amsterdam (in Dutch)
+(joint with [Hessel Oosterbeek](http://oosterbeek.economists.nl/) and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/)) 
+
+Hoofdstuk 8 in H. van de Werfhorst en E. van Hest, Gelijke kansen in de stad, Amsterdam University Press.
+
 # Work in Progress
 ## Measuring students’ cardinal preferences for schools
 (joint with [Monique de Haan](http://www.moniquedehaan.nl/), [Pieter Gautier](https://sites.google.com/site/pietgautier/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
