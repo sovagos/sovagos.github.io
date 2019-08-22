@@ -4,8 +4,6 @@ title: Teaching
 ---
 
 ### **Current courses**
-
-Link for Health Prevention Summer School: [Link](https://drive.google.com/open?id=1CXI3cymSGsKI4A0-gf1cXow8yN0R1B2E)
   
 ### **Past courses**
 Undergraduate
