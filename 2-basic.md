@@ -7,7 +7,6 @@ title: Teaching
   
 ### **Past courses**
 Undergraduate
-
   * *Econometrics for Business Economics*, BA in Business Economics, University of Groningen (RUG); 2019
   * *Statistical Modelling*, BSc in Econometrics, RUG; 2019
   * *Empirical Papers in Economics*, BA in Economics, RUG; 2019
@@ -27,3 +26,6 @@ Graduate
   * *Advanced Econometrics III*, MPhil in Econometrics, Tinbergen Institute (TI); 2014
   * *Advanced Econometrics I*, MPhil in Econometrics, TI; 2013
   * *Microeconomics I*, MPhil in Economics, TI; 2013
+  
+Summer School
+  * *Data-Driven Prevention Policy in Public Health*, Aletta Jacobs School of Public Health; 2019
