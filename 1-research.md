@@ -29,11 +29,18 @@ Hoofdstuk 8 in H. van de Werfhorst en E. van Hest, Gelijke kansen in de stad, Am
 <br>
 <div style="text-align: justify"> This paper compares different approaches to express cardinal preferences of students in terms of their willingness-to-travel to schools. A good measure for cardinal utility is crucial for ranking school assignment mechanisms in terms of expected student welfare. We directly measure willingness-to-travel in a survey and compare this to a structurally estimated willingness-to-travel measure using non-manipulated survey-based ordinal rankings and a measure based on subjective preference points. Only when the ordinal rankings coincide, the different measures are strongly correlated (also within students). For all measures, deferred acceptance yields higher average student welfare than the adaptive immediate acceptance mechanism. Finally, we show that when actual choice data from a non-strategy proof mechanism are used to estimate willingness-to-travel, the absence of information on the rank-ordered lists causes a low correlation in willingness-to-travel with directly measured willingness-to-travel. </div>
 
+## Need vs. Merit: The Large Core of College Admissions Markets 
+(with Avinatan Hassidim, Assaf Romm, and Ran I. Shorrer)
+
+# Policy Work on School Assignment
+## Determinanten van voorkeuren voor VO-scholen in Amsterdam 
+(with Hessel Oosterbeek and Bas van der Klaauw)
+
+## Schoolkeuze Voortgezet Onderwijs in Utrecht 2016: Resultaten van een Enquête en een Simulatiestudie
+(with Monique de Haan, Pieter Gautier, Hessel Oosterbeek, and Bas van der Klaauw)
+
+# Projects on Temporary Hold
 ## The Impact of Elite High-Schools on Academic Performance: A Non-Parametric Bounds Approach
 (joint with [János Divényi](http://divenyijanos.github.io/))
 
-<div style="text-align: justify"> Elite schools attract high-achieving students whose academic performance stands out. Does the achievement gap between elite and non-elite school students stem purely from selection, or elite schools have value-added as well? We study the effect of elite high-school attendance on short-term academic performance in Hungary. Hungarian elite high-schools track students at age 10 and 12 and offer special curriculum in addition to the high peer-quality. Our research design provides non-parametric bounds on the effect of elite schools for those who actually attend them. For identification purposes, we assume that more able students select into the elite high-schools, and that these high-schools do not impair the performance of participants. We tighten the bounds further using parental education and the number of books at home as monotone instruments. We find that selection explains at least half of the achievement gap in numeracy and literacy test scores between elite and non-elite school students. However, we do not find evidence that the lower bound of the effect of elite high-schools on short-term academic achievement is positive. </div>
-
 ## The Effect of the UI Benefit on Labor Market Outcomes - Regression Kink Evidence from the Netherlands
-
-<div style="text-align: justify">  This paper studies the impact of the size of unemployment insurance (UI) benefit on labor market outcomes. To estimate the causal effect of the UI benefit on unemployment duration and re-employment job quality, I exploit the kink caused by the capped UI benefit policy rule. The fuzzy regression kink design estimates suggest that more generous UI increases the duration of receiving UI benefits and the time that unemployed workers need to find a new job. However, there is no evidence that the UI benefit improves re-employment wages or the number of working hours. I assess various aspects of the optimality of the Dutch UI system by calibrating the Baily-Chetty formula. </div>
