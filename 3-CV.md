@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 
-Download [CV](https://drive.google.com/file/d/1Q8RJnOpjQtBtJVTR9ylf3eYWtdSlYfjH/view?usp=sharing). (Last updated: December, 2018)
+Download [CV](https://drive.google.com/file/d/1t9luzuHNwhvScGnDWUwcj19tD1wRygy8/view?usp=sharing). (Last updated: November, 2019)
 
 ## Summary
 ### Employment
