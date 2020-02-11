@@ -14,7 +14,7 @@ Undergraduate
   
 ### **Past courses**
 Undergraduate
-  * *Econometrics for Business Economics*, BA in Business Economics, University of Groningen (RUG); 2019
+  * *Econometrics for Business Economics*, BA in Business Economics, RUG; 2019
   * *Statistical Modelling*, BSc in Econometrics, RUG; 2019
   * *Empirical Papers in Economics*, BA in Economics, RUG; 2019
   * *Quantitative Research Methods III*, BA in Business and Economics, VU; 2018 
