@@ -10,7 +10,7 @@ Undergraduate
   * *Empirical Papers in Economics*, BA in Economics, RUG
  
  Graduate 
-  * *Public Economics and Social Policy*, MSc in Economics, RUG
+  * *[Public Economics and Social Policy](https://www.rug.nl/ocasys/rug/vak/show?code=EBM108A05)*, MSc in Economics, RUG
   
 ### **Past courses**
 Undergraduate
