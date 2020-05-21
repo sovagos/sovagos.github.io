@@ -33,16 +33,3 @@ Hoofdstuk 8 in H. van de Werfhorst en E. van Hest, Gelijke kansen in de stad, Am
 
 ## Need vs. Merit: The Large Core of College Admissions Markets 
 (with Avinatan Hassidim, Assaf Romm, and Ran I. Shorrer)
-
-# Policy Work on School Assignment
-### Determinanten van voorkeuren voor VO-scholen in Amsterdam  
-(with Hessel Oosterbeek and Bas van der Klaauw)
-
-### Schoolkeuze Voortgezet Onderwijs in Utrecht 2016: Resultaten van een Enquête en een Simulatiestudie
-(with Monique de Haan, Pieter Gautier, Hessel Oosterbeek, and Bas van der Klaauw)
-
-# Projects on Temporary Hold
-### The Impact of Elite High-Schools on Academic Performance: A Non-Parametric Bounds Approach
-(joint with [János Divényi](http://divenyijanos.github.io/))
-
-### The Effect of the UI Benefit on Labor Market Outcomes - Regression Kink Evidence from the Netherlands
