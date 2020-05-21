@@ -5,16 +5,16 @@ title: Teaching
 
 ### **Current courses**
 Undergraduate
-  * *Econometrics for Business Economics*, BA in Business Economics, University of Groningen (RUG)
   * *Statistical Modelling*, BSc in Econometrics, RUG
   * *Empirical Papers in Economics*, BA in Economics, RUG
  
  Graduate 
   * *[Public Economics and Social Policy](https://www.rug.nl/ocasys/rug/vak/show?code=EBM108A05)*, MSc in Economics, RUG
+  * *[Advanced Health Systems and Prevention](https://www.rug.nl/ocasys/rug/vak/show?code=CPEHSP002)*, MSc in Clinical and Psycological Epidemiology, RUG
   
 ### **Past courses**
 Undergraduate
-  * *Econometrics for Business Economics*, BA in Business Economics, RUG; 2019
+  * *Econometrics for Business Economics*, BA in Business Economics, RUG; 2019, 2020
   * *Statistical Modelling*, BSc in Econometrics, RUG; 2019
   * *Empirical Papers in Economics*, BA in Economics, RUG; 2019
   * *Quantitative Research Methods III*, BA in Business and Economics, VU; 2018 
