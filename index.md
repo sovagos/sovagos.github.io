@@ -15,10 +15,10 @@ layout: default
      </tr>
      <tr>
      <td></td>
-     <td align = "justify"><br> <b>New!</b> <a href = "https://www.dropbox.com/s/78qigdswxd8ri8b/segregation2018sep.pdf?dl=0"> Why are schools segregated? Evidence from the secondary-school match in Amsterdam </a> (joint with Hessel Oosterbeek and Bas van der Klaauw) </td> 
+     <td align = "justify"><br> <b>Revised!</b> <a href = "https://www.dropbox.com/s/9widj8b41lmo5gm/segregation2020feb.pdf?dl=0"> Preference Heterogeneity and School Segregation </a> (joint with Hessel Oosterbeek and Bas van der Klaauw) </td> 
      </tr>
      <tr>
      <td></td>
-     <td align = "justify"><br> <b>Revised!</b> <a href = "https://drive.google.com/file/d/1HS4ZtgHSRM39tnn7m1wk17kTKA-mEF0M/view?usp=sharing"> Obvious mistakes in a strategically simple college admissions environment: causes and consequences </a> (joint with Ran I. Shorrer) </td> 
+     <td align = "justify"><br> <b>Revised!</b> <a href = "https://drive.google.com/file/d/1HS4ZtgHSRM39tnn7m1wk17kTKA-mEF0M/view?usp=sharing"> Dominated Choices in a Strategically Simple College Admissions Environment: The Effect of Admission Selectivity </a> (joint with Ran I. Shorrer) </td> 
       </tr>
 </table>
