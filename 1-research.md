@@ -4,7 +4,7 @@ title: Research
 ---
 
 # Working Papers
-## Preference heterogeneity and school segregation
+## Preference Heterogeneity and School Segregation
 (joint with [Hessel Oosterbeek](http://oosterbeek.economists.nl/) and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
 
 <div style="text-align: justify"> This paper examines heterogeneity of school preferences between ethnic and social groups and quantifies the importance of this heterogeneity for school segregation. We study secondary schools in Amsterdam, where it is unlikely that location choices are driven by school preferences. Our key findings are that heterogeneity of preferences for schools is substantial and that almost 50% of school segregation by ethnicity and 30% of school segregation by household income, can be attributed to it. Ability tracking is the other main determinant of school segregation. Results from policy simulations indicate that affirmative action in the form of bonus points on qualifying tests or minority quotas have only modest impacts.
@@ -14,10 +14,10 @@ title: Research
 Media: [Vox Podcast](https://voxeu.org/vox-talks/why-are-schools-segregated)
 
 
-## Obvious Mistakes in a Strategically Simple College Admissions Environment: Causes and Consequences
+## Dominated Choices in a Strategically Simple College Admissions Environment: The Effect of Admission Selectivity
 (joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
-<div style="text-align: justify"> Although many centralized school assignment systems use strategically simple mechanisms, applicants often make dominated choices. Using administrative data from Hungary, we show that many college applicants forgo the free opportunity to receive a tuition waiver. Using two empirical strategies, we provide causal evidence that applicants make more such mistakes when applying to programs where tuition waivers are more selective. First, exploiting a reform that increased the selectivity of admission with a tuition waiver in some programs, we find that the rate of mistakes quadrupled. Second, we show that applicants that apply to multiple programs are more likely to make mistakes in their applications to more selective programs. A non-negligible share of these mistakes are consequential, costing applicants more than 3,000 dollars on average. Costly mistakes transfer tuition waivers from high- to low-socioeconomic status students, and increase the number of students admitted to college. Our results suggest that mistakes are more common when their expected utility cost is lower. </div> ([link](https://drive.google.com/file/d/1HS4ZtgHSRM39tnn7m1wk17kTKA-mEF0M/view?usp=sharing)) 
+<div style="text-align: justify"> Although many centralized school assignment systems use the strategically simple Deferred Acceptance mechanism, applicants often make dominated choices. Using administrative data from Hungary, we show that many college applicants forgo the free opportunity to receive a tuition waiver. Using two empirical strategies, we provide causal evidence that applicants make more such dominated choices when applying to programs where tuition waivers are more selective. Our results suggest that dominated choices are more common when their expected utility cost is lower. But, a non-negligible share of these dominated choices are consequential and when they are, the cost is significant, averaging more than 3,000 dollars. </div> ([link](https://drive.google.com/file/d/1HS4ZtgHSRM39tnn7m1wk17kTKA-mEF0M/view?usp=sharing)) 
 
 # Book Chapters
 ## Oorzaken van schoolsegregatie in Amsterdam (in Dutch)
