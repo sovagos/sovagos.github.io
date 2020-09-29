@@ -4,19 +4,12 @@ title: Teaching
 ---
 
 ### **Current courses**
-Undergraduate
-  * *Statistical Modelling*, BSc in Econometrics, RUG
-  * *Empirical Papers in Economics*, BA in Economics, RUG
- 
- Graduate 
-  * *[Public Economics and Social Policy](https://www.rug.nl/ocasys/rug/vak/show?code=EBM108A05)*, MSc in Economics, RUG
-  * *[Advanced Health Systems and Prevention](https://www.rug.nl/ocasys/rug/vak/show?code=CPEHSP002)*, MSc in Clinical and Psycological Epidemiology, RUG
   
 ### **Past courses**
 Undergraduate
   * *Econometrics for Business Economics*, BA in Business Economics, RUG; 2019, 2020
-  * *Statistical Modelling*, BSc in Econometrics, RUG; 2019
-  * *Empirical Papers in Economics*, BA in Economics, RUG; 2019
+  * *Statistical Modelling*, BSc in Econometrics, RUG; 2019, 2020
+  * *Empirical Papers in Economics*, BA in Economics, RUG; 2019, 2020
   * *Quantitative Research Methods III*, BA in Business and Economics, VU; 2018 
   * *Microeconomics and Methods*, BA in Philosophy, Politics, and Economics, VU; 2017
   * *Empirical Economics*, BA in Econometrics and Operation Research, VU; 2016, 2017  
@@ -28,7 +21,8 @@ Undergraduate
   * *Linear Algebra I-II*, BSc in Economics, CUB; 2006-2009
   
 Graduate 
-  * *Public Economics and Social Policy*, MSc in Economics, RUG; 2019
+  * *[Advanced Health Systems and Prevention](https://www.rug.nl/ocasys/rug/vak/show?code=CPEHSP002)*, MSc in Clinical and Psycological Epidemiology, RUG; 2020
+  * *[Public Economics and Social Policy](https://www.rug.nl/ocasys/rug/vak/show?code=EBM108A05)*, MSc in Economics, RUG; 2019, 2020
   * *Advanced Methods for Applied Economic Research*, MA in Economics, VU; 2015, 2016, 2017
   * *Advanced Econometrics III*, MPhil in Econometrics, Tinbergen Institute (TI); 2014
   * *Advanced Econometrics I*, MPhil in Econometrics, TI; 2013
