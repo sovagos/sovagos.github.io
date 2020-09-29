@@ -23,7 +23,7 @@ Media: [Vox Podcast](https://voxeu.org/vox-talks/why-are-schools-segregated)
 (with [Biró Péter](http://www.econ.core.hu/english/inst/biro.html), [Avinatan Hassidim](http://u.cs.biu.ac.il/~avinatan/), [Assaf Romm](http://assafromm.weebly.com/), and [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
 <div style="text-align: justify"> This paper studies the set of stable allocations in college admissions markets where students can attend the same college under different financial terms. The stable deferred acceptance mechanism implicitly allocates funding based on merit. In Hungary, where the centralized mechanism is based on deferred acceptance, an alternate stable algorithm would change the assignment of 9.3 percent of the applicants, and increase the number of assigned applicants by 2 percent. Low socioeconomic status applicants and colleges in the periphery benefit disproportionately from moving to this non-merit-based algorithm. These findings stand in sharp contrast to findings from the matching (without contracts) literature. </div>
-
+<br>
 ## Do Elite Schools Benefit the Average Student?
 (joint [János Divényi](https://divenyijanos.github.io/))
 
@@ -40,7 +40,7 @@ Hoofdstuk 8 in H. van de Werfhorst en E. van Hest, Gelijke kansen in de stad, Am
 (joint with [Monique de Haan](http://www.moniquedehaan.nl/), [Pieter Gautier](https://sites.google.com/site/pietgautier/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
 <br>
 <div style="text-align: justify"> This paper compares different approaches to express cardinal preferences of students in terms of their willingness-to-travel to schools. A good measure for cardinal utility is crucial for ranking school assignment mechanisms in terms of expected student welfare. We directly measure willingness-to-travel in a survey and compare this to a structurally estimated willingness-to-travel measure using non-manipulated survey-based ordinal rankings and a measure based on subjective preference points. Only when the ordinal rankings coincide, the different measures are strongly correlated (also within students). For all measures, deferred acceptance yields higher average student welfare than the adaptive immediate acceptance mechanism. Finally, we show that when actual choice data from a non-strategy proof mechanism are used to estimate willingness-to-travel, the absence of information on the rank-ordered lists causes a low correlation in willingness-to-travel with directly measured willingness-to-travel. </div>
-
+<br>
 ## Strategic mistakes in school assignment: Biased beliefs vs. optimization errors
 (joint with [Monique de Haan](http://www.moniquedehaan.nl/), [Pieter Gautier](https://sites.google.com/site/pietgautier/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
 
