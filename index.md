@@ -19,6 +19,6 @@ layout: default
      </tr>
      <tr>
      <td></td>
-     <td align = "justify"><br> <b>Revised!</b> <a href = "https://drive.google.com/file/d/1HS4ZtgHSRM39tnn7m1wk17kTKA-mEF0M/view?usp=sharing"> Dominated Choices in a Strategically Simple College Admissions Environment: The Effect of Admission Selectivity </a> (joint with Ran I. Shorrer) </td> 
+     <td align = "justify"><br> <b>Revised!</b> <a href = "https://www.dropbox.com/s/dliitao1szhhep2/dominated_choice_2020October.pdf?dl=0"> Dominated Choices in a Strategically Simple College Admissions Environment: The Effect of Admission Selectivity </a> (joint with Ran I. Shorrer) </td> 
       </tr>
 </table>
