@@ -4,12 +4,14 @@ title: Teaching
 ---
 
 ### **Current courses**
+Undergraduate
+ * *[Econometrics for Economics](https://www.rug.nl/ocasys/feb/vak/show?code=EBB814A05)*, BA in Economics, RUG; 2021
   
 ### **Past courses**
 Undergraduate
-  * *Econometrics for Business Economics*, BA in Business Economics, RUG; 2019, 2020
-  * *Statistical Modelling*, BSc in Econometrics, RUG; 2019, 2020
-  * *Empirical Papers in Economics*, BA in Economics, RUG; 2019, 2020
+  * *[Econometrics for Business Economics](https://www.rug.nl/ocasys/feb/vak/show?code=EBB061A05)*, BA in Business Economics, RUG; 2019, 2020
+  * *[Statistical Modelling](https://www.rug.nl/ocasys/feb/vak/show?code=EBP008B05)*, BSc in Econometrics, RUG; 2019, 2020
+  * *[Empirical Papers in Economics](https://www.rug.nl/ocasys/feb/vak/show?code=EBB020B05)*, BA in Economics, RUG; 2019, 2020
   * *Quantitative Research Methods III*, BA in Business and Economics, VU; 2018 
   * *Microeconomics and Methods*, BA in Philosophy, Politics, and Economics, VU; 2017
   * *Empirical Economics*, BA in Econometrics and Operation Research, VU; 2016, 2017  
