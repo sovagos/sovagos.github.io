@@ -31,4 +31,4 @@ Graduate
   * *Microeconomics I*, MPhil in Economics, TI; 2013
   
 Summer School
-  * *Data-Driven Prevention Policy in Public Health*, Aletta Jacobs School of Public Health; 2019
+  * *[Data-Driven Prevention Policy in Public Health](https://www.rug.nl/education/summer-winter-schools/ddppph/?lang=en)*, Aletta Jacobs School of Public Health; 2019
