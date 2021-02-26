@@ -15,7 +15,7 @@ layout: default
      </tr>
      <tr>
      <td></td>
-     <td align = "justify"><br> <b>New!</b> <a href = "https://www.dropbox.com/s/ksb52b3y6leg4lr/NeedVsMerit2020.pdf?dl=0"> Need versus Merit: The Large Core of College Admissions Markets </a> (joint with Biró Péter, Avinatan Hassidim, Assaf Romm, and Ran I. Shorrer) </td> 
+     <td align = "justify"><br> <b>New!</b> <a href = "https://www.dropbox.com/s/ksb52b3y6leg4lr/NeedVsMerit2020.pdf?dl=0"> Need versus Merit: The Large Core of College Admissions Markets </a> (joint with Péter Biró, Avinatan Hassidim, Assaf Romm, and Ran I. Shorrer) </td> 
      </tr>
      <tr>
      <td></td>
