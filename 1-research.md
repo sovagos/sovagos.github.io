@@ -44,5 +44,7 @@ Hoofdstuk 8 in H. van de Werfhorst en E. van Hest, Gelijke kansen in de stad, Am
 <br>
 ## Strategic mistakes in school assignment: Biased beliefs vs. optimization errors
 (joint with [Monique de Haan](http://www.moniquedehaan.nl/), [Pieter Gautier](https://sites.google.com/site/pietgautier/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
+## Firm Consolidations and Labor Market Outcomes
+(joint with [Eric Bartelsman](https://research.vu.nl/en/persons/ej-bartelsman), [Sabien Dobbelaere](https://sites.google.com/site/sabiendobbelaere/), Grace McCormack, [Daniel Prinz](https://sites.google.com/view/danielprinz/))
 
 
