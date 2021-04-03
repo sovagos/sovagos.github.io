@@ -15,15 +15,15 @@ Media: [Vox Podcast](https://voxeu.org/vox-talks/why-are-schools-segregated)
 
 # Working Papers
 
-## Dominated Choices in a Strategically Simple College Admissions Environment: The Effect of Admission Selectivity
-(joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
-
-<div style="text-align: justify"> Although many centralized school assignment systems use the strategically simple Deferred Acceptance mechanism, applicants often make dominated choices. Using administrative data from Hungary, we show that many college applicants forgo the free opportunity to receive a tuition waiver. Using two empirical strategies, we provide causal evidence that applicants make more such dominated choices when applying to programs where tuition waivers are more selective. Our results suggest that dominated choices are more common when their expected utility cost is lower. But, a non-negligible share of these dominated choices are consequential and when they are, the cost is significant, averaging more than 3,000 dollars. </div> ([link](https://www.dropbox.com/s/dliitao1szhhep2/dominated_choice_2020October.pdf?dl=0)) 
-
 ## Need vs. Merit: The Large Core of College Admissions Markets
 (joint with [Péter Biró](http://www.econ.core.hu/english/inst/biro.html), [Avinatan Hassidim](http://u.cs.biu.ac.il/~avinatan/), [Assaf Romm](http://assafromm.weebly.com/), and [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
 <div style="text-align: justify"> This paper studies the set of stable allocations in college admissions markets where students can attend the same college under different financial terms. The stable deferred acceptance mechanism implicitly allocates funding based on merit. In Hungary, where the centralized mechanism is based on deferred acceptance, an alternate stable algorithm would change the assignment of 9.3 percent of the applicants, and increase the number of assigned applicants by 2 percent. Low socioeconomic status applicants and colleges in the periphery benefit disproportionately from moving to this non-merit-based algorithm. These findings stand in sharp contrast to findings from the matching (without contracts) literature. </div> ([link](https://www.dropbox.com/s/ksb52b3y6leg4lr/NeedVsMerit2020.pdf?dl=0))
+<br>
+## Dominated Choices in a Strategically Simple College Admissions Environment: The Effect of Admission Selectivity
+(joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
+
+<div style="text-align: justify"> Although many centralized school assignment systems use the strategically simple Deferred Acceptance mechanism, applicants often make dominated choices. Using administrative data from Hungary, we show that many college applicants forgo the free opportunity to receive a tuition waiver. Using two empirical strategies, we provide causal evidence that applicants make more such dominated choices when applying to programs where tuition waivers are more selective. Our results suggest that dominated choices are more common when their expected utility cost is lower. But, a non-negligible share of these dominated choices are consequential and when they are, the cost is significant, averaging more than 3,000 dollars. </div> ([link](https://www.dropbox.com/s/dliitao1szhhep2/dominated_choice_2020October.pdf?dl=0)) 
 <br>
 ## Do Elite Schools Benefit their Students?
 (joint with [János Divényi](https://divenyijanos.github.io/))
