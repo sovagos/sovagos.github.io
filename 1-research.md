@@ -4,12 +4,12 @@ title: Research
 ---
 # Publication
 
-## Preference Heterogeneity and School Segregation. _Journal of Public Economics_ (Forthcoming)
+## Preference Heterogeneity and School Segregation. _Journal of Public Economics_ (2021)
 (joint with [Hessel Oosterbeek](http://oosterbeek.economists.nl/) and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
 
 <div style="text-align: justify"> This paper examines heterogeneity of school preferences between ethnic and social groups and quantifies the importance of this heterogeneity for school segregation. We use rich data from the secondary-school match in Amsterdam. Our key findings are that heterogeneity of preferences for schools is substantial and that 40% of school segregation by ethnicity and close to 25% of school segregation by household income, can be attributed to it. Ability tracking is the other main determinant of school segregation. Results from policy simulations indicate that minority quotas reduce segregation within ability tracks considerably, but this comes at the cost of many students receiving less-preferred assignments and a higher share of unassigned students.
 
- </div> ([link](https://www.dropbox.com/s/c0clph8efcz32n6/segregation2021feb.pdf?dl=0)) 
+ </div> ([link](https://www.sciencedirect.com/science/article/pii/S0047272721000360)) 
 
 Media: [Vox Podcast](https://voxeu.org/vox-talks/why-are-schools-segregated)
 
