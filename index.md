@@ -17,8 +17,4 @@ layout: default
      <td></td>
      <td align = "justify"><br> <b>New!</b> <a href = "https://www.dropbox.com/s/ksb52b3y6leg4lr/NeedVsMerit2020.pdf?dl=0"> Need versus Merit: The Large Core of College Admissions Markets </a> (joint with Péter Biró, Avinatan Hassidim, Assaf Romm, and Ran I. Shorrer) </td> 
      </tr>
-     <tr>
-     <td></td>
-     <td align = "justify"><br> <b>Revised!</b> <a href = "https://www.dropbox.com/s/dliitao1szhhep2/dominated_choice_2020October.pdf?dl=0"> Dominated Choices in a Strategically Simple College Admissions Environment: The Effect of Admission Selectivity </a> (joint with Ran I. Shorrer) </td> 
-      </tr>
 </table>
