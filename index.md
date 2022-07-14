@@ -7,7 +7,7 @@ layout: default
   <col width="80%">
   <tr>
     <td><img src="{{ site.url }}/images/IMG_5500-Bearbeitet_potre.jpg" alt="picture" style="width:90%;" ></td>
-    <td align = "justify"> Welcome, <br> <br> I am a Senior Data Scientist at the AI Team of <a href"https://emarsys.com/">Emarsys</a>. My job is explore how data can make the marketing cloud of Emarsys even smarter. </td> 
+    <td align = "justify"> Welcome, <br> <br> I am a Senior Data Scientist at the AI Team of <a href="https://emarsys.com/">Emarsys</a>. My job is explore how data can make the marketing cloud of Emarsys even smarter. </td> 
   </tr>
   <tr>
     <td></td>
