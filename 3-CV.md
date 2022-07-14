@@ -3,18 +3,16 @@ layout: default
 title: CV
 ---
 
-Download [CV](https://drive.google.com/file/d/1WGaHDB9orVIKSBuV3xoopzknsTLiuZMZ/view?usp=sharing). (Last updated: April, 2021)
-
 ## Summary
 ### Employment
 
-* 2018 - : Assistant Professor (tenure-track), University of Groningen, Department of Economics, Econometrics and Finance
+ * 2021- : Senior Data Scientist at AI Team, Emarsys Technologies, Budapest
 
 ### Education
 
-  * 2014 - 2019: PhD in Economics, Vrije Universiteit Amsterdam
-  * 2012 - 2014: MPhil in Economics (cum laude), Tinbergen Institute
-  * 2005 - 2010: MSc in Economics, Corvinus University of Budapest
+  * 2014-2019: PhD in Economics, Vrije Universiteit Amsterdam
+  * 2012-2014: MPhil in Economics (cum laude), Tinbergen Institute
+  * 2005-2010: MSc in Economics, Corvinus University of Budapest
 
 ### Research Visits
 
@@ -23,6 +21,7 @@ Download [CV](https://drive.google.com/file/d/1WGaHDB9orVIKSBuV3xoopzknsTLiuZMZ/
 
 ### Relevant Positions
 
+  * 2018-2021: Assistant Professor (tenure-track), University of Groningen, Department of Economics, Econometrics and Finance, Groningen
   * 2017 (Summer): Economist Intern, Amazon, Berlin
   * 2013 (Spring): Consultant, The World Bank Group, Vienna Financial Advisory Center, Vienna
   * 2009-2012: Analyst, Central Bank of Hungary, Department of Financial Stability, Budapest
