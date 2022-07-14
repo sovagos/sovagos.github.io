@@ -11,7 +11,7 @@ layout: default
   </tr>
   <tr>
     <td></td>
-    <td align = "justify"><br> Before getting into Data Science, I earned a PhD in Economics and did research as an Assistant Professor at the <a href="https://www.rug.nl/research/eef/">Department of Economics, Econometrics and Finance, University of Groningen</a>. I am excited about applied microeconomics, especially when it is about measuring the impact of education policies. Even though I do not officially work as an academic, I love spending my (free) time on my reseach projects. </td> 
+    <td align = "justify"><br> Before getting into Data Science, I earned a PhD in Economics and did research as an Assistant Professor at the <a href="https://www.rug.nl/research/eef/">University of Groningen</a>. I am excited about applied microeconomics, especially when it is about measuring the impact of education policies. Even though I do not officially work as an academic, I love spending my (free) time on my reseach projects. </td> 
      </tr>
     <tr>
     <td></td>
