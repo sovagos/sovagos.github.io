@@ -16,7 +16,7 @@ Media: [Vox Podcast](https://voxeu.org/vox-talks/why-are-schools-segregated)
 ## The Large Core of College Admission Markets: Theory and Evidence, _EC '22: Proceedings of the 23rd ACM Conference on Economics and Computation_ (2022)
 (joint with [Péter Biró](http://www.econ.core.hu/english/inst/biro.html), [Avinatan Hassidim](http://u.cs.biu.ac.il/~avinatan/), [Assaf Romm](http://assafromm.weebly.com/), and [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
- </div> ([link](https://dl.acm.org/doi/10.1145/3490486.3538369)) 
+([link](https://dl.acm.org/doi/10.1145/3490486.3538369)) 
 
 # Working Papers
 
