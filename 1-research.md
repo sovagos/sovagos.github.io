@@ -20,10 +20,10 @@ Extended abstract: ([link](https://dl.acm.org/doi/10.1145/3490486.3538369))
 
 # Working Papers
 
-## Need vs. Merit: The Large Core of College Admissions Markets
+## The Large Core of College Admission Markets: Theory and Evidence
 (joint with [Péter Biró](http://www.econ.core.hu/english/inst/biro.html), [Avinatan Hassidim](http://u.cs.biu.ac.il/~avinatan/), [Assaf Romm](http://assafromm.weebly.com/), and [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
-<div style="text-align: justify"> This paper studies the set of stable allocations in college admissions markets where students can attend the same college under different financial terms. The stable deferred acceptance mechanism implicitly allocates funding based on merit. In Hungary, where the centralized mechanism is based on deferred acceptance, an alternate stable algorithm would change the assignment of 9.3 percent of the applicants, and increase the number of assigned applicants by 2 percent. Low socioeconomic status applicants and colleges in the periphery benefit disproportionately from moving to this non-merit-based algorithm. These findings stand in sharp contrast to findings from the matching (without contracts) literature. </div> ([link](https://www.dropbox.com/s/ksb52b3y6leg4lr/NeedVsMerit2020.pdf?dl=0))
+<div style="text-align: justify"> We study stable allocations in college admissions markets where students can attend. the same college under different financial terms. The deferred acceptance algorithm identifies a stable allocation where funding is allocated based on merit. While merit-based stable allocations assign the same students to college, non-merit-based stable allocations may differ in the number of students assigned to college. In large markets, this possibility requires heterogeneity in applicants’ sensitivity to financial terms. In Hungary, where such heterogeneity is present, a non-merit-based stable allocation would increase the number of assigned applicants by 1.9%, and affect 8.3% of the applicants relative to any merit-based stable allocation. These findings contrast sharply with findings from the matching (without contracts) literature. </div>
 <br>
 ## Dominated Choices in a Strategically Simple College Admissions Environment: The Effect of Admission Selectivity (R&R Journal of Political Economy: Microeconomics)
 (joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
