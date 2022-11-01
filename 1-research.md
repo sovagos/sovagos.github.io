@@ -47,14 +47,14 @@ Hoofdstuk 8 in H. van de Werfhorst en E. van Hest, Gelijke kansen in de stad, Am
 
 <div style="text-align: justify"> Using rich administrative data from the Netherlands, we study the consequences of firm consolidation for workers. For workers at acquired firms, takeovers are associated with a 8.5\% drop in employment at the consolidated firm and a 2.6\% drop in total labor income. These effects are persistent even four years later. We show that the primary mechanism for this job loss is labor restructuring at consolidating firms. Specifically, workers with higher-than-expected pay relative to their human capital and workers with skills that are likely already present at acquirers are less likely to be retained. </div>
 <br>
-## Measuring students’ cardinal preferences for schools
+## Measuring Students’ Cardinal Preferences for Schools
 (joint with [Monique de Haan](http://www.moniquedehaan.nl/), [Pieter Gautier](https://sites.google.com/site/pietgautier/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
 
-<div style="text-align: justify"> This paper compares different approaches to express cardinal preferences of students in terms of their willingness-to-travel to schools. A good measure for cardinal utility is crucial for ranking school assignment mechanisms in terms of expected student welfare. We directly measure willingness-to-travel in a survey and compare this to a structurally estimated willingness-to-travel measure using non-manipulated survey-based ordinal rankings and a measure based on subjective preference points. Only when the ordinal rankings coincide, the different measures are strongly correlated (also within students). For all measures, deferred acceptance yields higher average student welfare than the adaptive immediate acceptance mechanism. Finally, we show that when actual choice data from a non-strategy proof mechanism are used to estimate willingness-to-travel, the absence of information on the rank-ordered lists causes a low correlation in willingness-to-travel with directly measured willingness-to-travel. </div>
+<div style="text-align: justify"> Measuring students’ cardinal preferences for schools is essential for the evaluation of school choice policies. It is unclear, however, how to best measure cardinal preferences. The recent literature uses discrete choice models to estimate students’ cardinal preferences for schools. In this paper we compare such estimated measures to measures elicited through survey questions. While we find that the estimated and elicited measures are highly correlated and are determined by the same factors, results in terms of policy simulations are different. Specifically, we find that welfare effects are larger when measured through elicited measures than through estimated measures. This implies that evaluations based on estimated cardinal preferences are likely to underestimate the welfare implications of school choice policies. </div>
 <br>
-## The (un)importance of school choice
+## The (un)importance of School Choice
 (joint with [Nadine Ketel](https://sites.google.com/site/nadineketel/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
 
-## Strategic mistakes in school assignment: Biased beliefs vs. optimization errors
+## Strategic Mistakes in School Assignment: Biased Beliefs vs. Optimization Errors
 (joint with [Monique de Haan](http://www.moniquedehaan.nl/), [Pieter Gautier](https://sites.google.com/site/pietgautier/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
  
