@@ -24,12 +24,12 @@ Extended abstract: ([link](https://dl.acm.org/doi/10.1145/3490486.3538369))
 (joint with [Péter Biró](http://www.econ.core.hu/english/inst/biro.html), [Avinatan Hassidim](http://u.cs.biu.ac.il/~avinatan/), [Assaf Romm](http://assafromm.weebly.com/), and [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
 <div style="text-align: justify"> We study stable allocations in college admissions markets where students can attend. the same college under different financial terms. The deferred acceptance algorithm identifies a stable allocation where funding is allocated based on merit. While merit-based stable allocations assign the same students to college, non-merit-based stable allocations may differ in the number of students assigned to college. In large markets, this possibility requires heterogeneity in applicants’ sensitivity to financial terms. In Hungary, where such heterogeneity is present, a non-merit-based stable allocation would increase the number of assigned applicants by 1.9%, and affect 8.3% of the applicants relative to any merit-based stable allocation. These findings contrast sharply with findings from the matching (without contracts) literature. </div>
-<br>
+
 ## Dominated Choices in a Strategically Simple College Admissions Environment: The Effect of Admission Selectivity (R&R Journal of Political Economy: Microeconomics)
 (joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
 <div style="text-align: justify"> Although many centralized school assignment systems use the strategically simple Deferred Acceptance mechanism, applicants often make dominated choices. Using administrative data from Hungary, we show that many college applicants forgo the free opportunity to receive a tuition waiver. Using two empirical strategies, we provide causal evidence that applicants make more such dominated choices when applying to programs where tuition waivers are more selective. Our results suggest that dominated choices are more common when their expected utility cost is lower. But, a non-negligible share of these dominated choices are consequential and when they are, the cost is significant, averaging more than 3,000 dollars. </div> ([link](https://www.dropbox.com/s/dliitao1szhhep2/dominated_choice_2020October.pdf?dl=0)) 
-<br>
+
 ## Do Elite Schools Benefit their Students?
 (joint with [János Divényi](https://divenyijanos.github.io/))
 
@@ -43,15 +43,15 @@ Hoofdstuk 8 in H. van de Werfhorst en E. van Hest, Gelijke kansen in de stad, Am
 
 # Work in Progress
 ## Firm Consolidations and Labor Market Outcomes
-(joint with [Sabien Dobbelaere](https://sites.google.com/site/sabiendobbelaere/), [Grace McCormack](https://sites.google.com/site/gracemccormackresearch/home?authuser=0), [Daniel Prinz](https://sites.google.com/view/danielprinz/))
+(joint with [Sabien Dobbelaere](https://sites.google.com/site/sabiendobbelaere/), [Grace McCormack](https://sites.google.com/site/gracemccormackresearch/home?authuser=0), and [Daniel Prinz](https://sites.google.com/view/danielprinz/))
 
 <div style="text-align: justify"> Using rich administrative data from the Netherlands, we study the consequences of firm consolidation for workers. For workers at acquired firms, takeovers are associated with a 8.5% drop in employment at the consolidated firm and a 2.6% drop in total labor income. These effects are persistent even four years later. We show that the primary mechanism for this job loss is labor restructuring at consolidating firms. Specifically, workers with higher-than-expected pay relative to their human capital and workers with skills that are likely already present at acquirers are less likely to be retained. </div>
-<br>
+
 ## Measuring Students’ Cardinal Preferences for Schools
 (joint with [Monique de Haan](http://www.moniquedehaan.nl/), [Pieter Gautier](https://sites.google.com/site/pietgautier/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
 
 <div style="text-align: justify"> Measuring students’ cardinal preferences for schools is essential for the evaluation of school choice policies. It is unclear, however, how to best measure cardinal preferences. The recent literature uses discrete choice models to estimate students’ cardinal preferences for schools. In this paper we compare such estimated measures to measures elicited through survey questions. While we find that the estimated and elicited measures are highly correlated and are determined by the same factors, results in terms of policy simulations are different. Specifically, we find that welfare effects are larger when measured through elicited measures than through estimated measures. This implies that evaluations based on estimated cardinal preferences are likely to underestimate the welfare implications of school choice policies. </div>
-<br>
+
 ## The (un)importance of School Choice
 (joint with [Nadine Ketel](https://sites.google.com/site/nadineketel/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
 
