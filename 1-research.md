@@ -30,6 +30,12 @@ Extended abstract: ([link](https://dl.acm.org/doi/10.1145/3490486.3538369))
 
 <div style="text-align: justify"> Although many centralized school assignment systems use the strategically simple Deferred Acceptance mechanism, applicants often make dominated choices. Using administrative data from Hungary, we show that many college applicants forgo the free opportunity to receive a tuition waiver. Using two empirical strategies, we provide causal evidence that applicants make more such dominated choices when applying to programs where tuition waivers are more selective. Our results suggest that dominated choices are more common when their expected utility cost is lower. But, a non-negligible share of these dominated choices are consequential and when they are, the cost is significant, averaging more than 3,000 dollars. </div> ([link](https://www.dropbox.com/s/dliitao1szhhep2/dominated_choice_2020October.pdf?dl=0)) 
 
+## Firm Consolidations and Labor Market Outcomes
+(joint with [Sabien Dobbelaere](https://sites.google.com/site/sabiendobbelaere/), [Grace McCormack](https://sites.google.com/site/gracemccormackresearch/home?authuser=0), and [Daniel Prinz](https://sites.google.com/view/danielprinz/))
+
+<div style="text-align: justify"> Using rich administrative data from the Netherlands, we study the consequences of firm consolidation for workers. For workers at acquired firms, takeovers are associated with a 8.5% drop in employment at the consolidated firm and a 2.6% drop in total labor income. These effects are persistent even four years later. We show that the primary mechanism for this job loss is labor restructuring at consolidating firms. Specifically, workers with higher-than-expected pay relative to their human capital and workers with skills that are likely already present at acquirers are less likely to be retained. </div> ([link](https://drive.google.com/file/d/1_ZQB4ZUCYxHeUJXTMB1GNZaCjgENI2pg/view?usp=sharing))
+
+
 ## Do Elite Schools Benefit their Students?
 (joint with [János Divényi](https://divenyijanos.github.io/))
 
@@ -42,11 +48,6 @@ Extended abstract: ([link](https://dl.acm.org/doi/10.1145/3490486.3538369))
 Hoofdstuk 8 in H. van de Werfhorst en E. van Hest, Gelijke kansen in de stad, Amsterdam University Press.
 
 # Work in Progress
-## Firm Consolidations and Labor Market Outcomes
-(joint with [Sabien Dobbelaere](https://sites.google.com/site/sabiendobbelaere/), [Grace McCormack](https://sites.google.com/site/gracemccormackresearch/home?authuser=0), and [Daniel Prinz](https://sites.google.com/view/danielprinz/))
-
-<div style="text-align: justify"> Using rich administrative data from the Netherlands, we study the consequences of firm consolidation for workers. For workers at acquired firms, takeovers are associated with a 8.5% drop in employment at the consolidated firm and a 2.6% drop in total labor income. These effects are persistent even four years later. We show that the primary mechanism for this job loss is labor restructuring at consolidating firms. Specifically, workers with higher-than-expected pay relative to their human capital and workers with skills that are likely already present at acquirers are less likely to be retained. </div>
-
 ## Measuring Students’ Cardinal Preferences for Schools
 (joint with [Monique de Haan](http://www.moniquedehaan.nl/), [Pieter Gautier](https://sites.google.com/site/pietgautier/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
 
