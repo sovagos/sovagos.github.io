@@ -42,7 +42,7 @@ many college applicants make revealed dominated choices: they forgo the free opp
 
 <div style="text-align: justify"> Using rich administrative data from the Netherlands, we study the consequences of firm consolidation for workers. For workers at acquired firms, takeovers are associated with a 8.5% drop in employment at the consolidated firm and a 2.6% drop in total labor income. These effects are persistent even four years later. We show that the primary mechanism for this job loss is labor restructuring at consolidating firms. Specifically, workers with higher-than-expected pay relative to their human capital and workers with skills that are likely already present at acquirers are less likely to be retained. </div> ([link](https://docs.iza.org/dp15724.pdf))
 
-Media: [IZA Commentary]([https://voxeu.org/vox-talks/why-are-schools-segregated](https://wol.iza.org/opinions/mergers-and-the-labor-market)), [VOXEU]([https://cepr.org/voxeu/columns/firm-consolidation-and-labour-market-outcomes])
+Media: [IZA Commentary](https://voxeu.org/vox-talks/why-are-schools-segregated](https://wol.iza.org/opinions/mergers-and-the-labor-market), [VOXEU](https://cepr.org/voxeu/columns/firm-consolidation-and-labour-market-outcomes)
 
 ## Do Elite Schools Benefit their Students?
 (joint with [János Divényi](https://divenyijanos.github.io/))
