@@ -4,6 +4,11 @@ title: Research
 ---
 # Publications
 
+## Dominated Choices in a Strategically Simple College Admissions Environment. Accepted at _Journal of Political Economy: Microeconomics_
+(joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
+
+<div style="text-align: justify">  Although many centralized school assignment systems use the strategically simple deferred acceptance mechanism, applicants often make dominated choices. Using administrative data from Hungary, we show that 11 percent of college applicants forgo the free opportunity to receive a tuition waiver. Between 12.3 and 18.7 percent of these dominated choices are consequential, costing 6,600 dollars on average. Our results suggest that dominated choices are more common when their expected utility cost is lower. Since tuition waivers are highly demanded, dominated choices increase the total number applicants assigned to college. </div>
+
 ## Preference Heterogeneity and School Segregation. _Journal of Public Economics_ (2021)
 (joint with [Hessel Oosterbeek](http://oosterbeek.economists.nl/) and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
 
@@ -25,16 +30,19 @@ Extended abstract: ([link](https://dl.acm.org/doi/10.1145/3490486.3538369))
 
 <div style="text-align: justify"> We study stable allocations in college admissions markets where students can attend. the same college under different financial terms. The deferred acceptance algorithm identifies a stable allocation where funding is allocated based on merit. While merit-based stable allocations assign the same students to college, non-merit-based stable allocations may differ in the number of students assigned to college. In large markets, this possibility requires heterogeneity in applicants’ sensitivity to financial terms. In Hungary, where such heterogeneity is present, a non-merit-based stable allocation would increase the number of assigned applicants by 1.9%, and affect 8.3% of the applicants relative to any merit-based stable allocation. These findings contrast sharply with findings from the matching (without contracts) literature. </div>
 
-## Dominated Choices in a Strategically Simple College Admissions Environment: The Effect of Admission Selectivity (R&R Journal of Political Economy: Microeconomics)
+## Dominated Choices under Deferred Acceptance Mechanism: The Effect of Admission Selectivity
 (joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
-<div style="text-align: justify"> Although many centralized school assignment systems use the strategically simple Deferred Acceptance mechanism, applicants often make dominated choices. Using administrative data from Hungary, we show that many college applicants forgo the free opportunity to receive a tuition waiver. Using two empirical strategies, we provide causal evidence that applicants make more such dominated choices when applying to programs where tuition waivers are more selective. Our results suggest that dominated choices are more common when their expected utility cost is lower. But, a non-negligible share of these dominated choices are consequential and when they are, the cost is significant, averaging more than 3,000 dollars. </div> ([link](https://www.dropbox.com/s/dliitao1szhhep2/dominated_choice_2020October.pdf?dl=0)) 
+<div style="text-align: justify"> College applicants often make dominated choices even when a strategically simple mechanism such as deferred acceptance is in place. 
+We study Hungarian college admissions, where deferred acceptance is used, and still
+many college applicants make revealed dominated choices: they forgo the free opportunity to receive a tuition waiver.  Using two empirical strategies, we show that when admission with a tuition waiver becomes more selective, applicants make more revealed dominated choices. Our results suggest that dominated choices respond to economic incentives. </div>
 
 ## Firm Consolidations and Labor Market Outcomes
 (joint with [Sabien Dobbelaere](https://sites.google.com/site/sabiendobbelaere/), [Grace McCormack](https://sites.google.com/site/gracemccormackresearch/home?authuser=0), and [Daniel Prinz](https://sites.google.com/view/danielprinz/))
 
 <div style="text-align: justify"> Using rich administrative data from the Netherlands, we study the consequences of firm consolidation for workers. For workers at acquired firms, takeovers are associated with a 8.5% drop in employment at the consolidated firm and a 2.6% drop in total labor income. These effects are persistent even four years later. We show that the primary mechanism for this job loss is labor restructuring at consolidating firms. Specifically, workers with higher-than-expected pay relative to their human capital and workers with skills that are likely already present at acquirers are less likely to be retained. </div> ([link](https://docs.iza.org/dp15724.pdf))
 
+Media: [IZA Commentary]([https://voxeu.org/vox-talks/why-are-schools-segregated](https://wol.iza.org/opinions/mergers-and-the-labor-market)), [VOXEU]([https://cepr.org/voxeu/columns/firm-consolidation-and-labour-market-outcomes])
 
 ## Do Elite Schools Benefit their Students?
 (joint with [János Divényi](https://divenyijanos.github.io/))
