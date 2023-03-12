@@ -4,6 +4,13 @@ title: Research
 ---
 # Publications
 
+## Dominated Choices under Deferred Acceptance Mechanism: The Effect of Admission Selectivity. Conditionally accepted at _Games and Economic Behavior_
+(joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
+
+<div style="text-align: justify"> College applicants often make dominated choices even when a strategically simple mechanism such as deferred acceptance is in place. 
+We study Hungarian college admissions, where deferred acceptance is used, and still
+many college applicants make revealed dominated choices: they forgo the free opportunity to receive a tuition waiver.  Using two empirical strategies, we show that when admission with a tuition waiver becomes more selective, applicants make more revealed dominated choices. Our results suggest that dominated choices respond to economic incentives. </div>
+
 ## Dominated Choices in a Strategically Simple College Admissions Environment. Accepted at _Journal of Political Economy: Microeconomics_
 (joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
@@ -29,13 +36,6 @@ Extended abstract: ([link](https://dl.acm.org/doi/10.1145/3490486.3538369))
 (joint with [Péter Biró](http://www.econ.core.hu/english/inst/biro.html), [Avinatan Hassidim](http://u.cs.biu.ac.il/~avinatan/), [Assaf Romm](http://assafromm.weebly.com/), and [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
 <div style="text-align: justify"> We study stable allocations in college admissions markets where students can attend. the same college under different financial terms. The deferred acceptance algorithm identifies a stable allocation where funding is allocated based on merit. While merit-based stable allocations assign the same students to college, non-merit-based stable allocations may differ in the number of students assigned to college. In large markets, this possibility requires heterogeneity in applicants’ sensitivity to financial terms. In Hungary, where such heterogeneity is present, a non-merit-based stable allocation would increase the number of assigned applicants by 1.9%, and affect 8.3% of the applicants relative to any merit-based stable allocation. These findings contrast sharply with findings from the matching (without contracts) literature. </div>
-
-## Dominated Choices under Deferred Acceptance Mechanism: The Effect of Admission Selectivity
-(joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
-
-<div style="text-align: justify"> College applicants often make dominated choices even when a strategically simple mechanism such as deferred acceptance is in place. 
-We study Hungarian college admissions, where deferred acceptance is used, and still
-many college applicants make revealed dominated choices: they forgo the free opportunity to receive a tuition waiver.  Using two empirical strategies, we show that when admission with a tuition waiver becomes more selective, applicants make more revealed dominated choices. Our results suggest that dominated choices respond to economic incentives. </div>
 
 ## Firm Consolidations and Labor Market Outcomes
 (joint with [Sabien Dobbelaere](https://sites.google.com/site/sabiendobbelaere/), [Grace McCormack](https://sites.google.com/site/gracemccormackresearch/home?authuser=0), and [Daniel Prinz](https://sites.google.com/view/danielprinz/))
