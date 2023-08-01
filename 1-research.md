@@ -14,7 +14,9 @@ many college applicants make revealed dominated choices: they forgo the free opp
 ## Dominated Choices in a Strategically Simple College Admissions Environment. Accepted at _Journal of Political Economy: Microeconomics_
 (joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
-<div style="text-align: justify">  Although many centralized school assignment systems use the strategically simple deferred acceptance mechanism, applicants often make dominated choices. Using administrative data from Hungary, we show that 11 percent of college applicants forgo the free opportunity to receive a tuition waiver. Between 12.3 and 18.7 percent of these dominated choices are consequential, costing 6,600 dollars on average. Our results suggest that dominated choices are more common when their expected utility cost is lower. Since tuition waivers are highly demanded, dominated choices increase the total number applicants assigned to college. </div>
+<div style="text-align: justify">  Although many centralized school assignment systems use the strategically simple deferred acceptance mechanism, applicants often make dominated choices. Using administrative data from Hungary, we show that 11 percent of college applicants forgo the free opportunity to receive a tuition waiver. Between 12.3 and 18.7 percent of these dominated choices are consequential, costing 6,600 dollars on average. Our results suggest that dominated choices are more common when their expected utility cost is lower. Since tuition waivers are highly demanded, dominated choices increase the total number applicants assigned to college. 
+
+</div> ([link](https://www.journals.uchicago.edu/doi/10.1086/726226))
 
 ## Preference Heterogeneity and School Segregation. _Journal of Public Economics_ (2021)
 (joint with [Hessel Oosterbeek](http://oosterbeek.economists.nl/) and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
@@ -56,14 +58,12 @@ Media: [IZA Commentary](https://wol.iza.org/opinions/mergers-and-the-labor-marke
 Hoofdstuk 8 in H. van de Werfhorst en E. van Hest, Gelijke kansen in de stad, Amsterdam University Press.
 
 # Work in Progress
+## The (un)importance of School Assignment
+(joint with [Nadine Ketel](https://sites.google.com/site/nadineketel/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
+
+<div style="text-align: justify"> We combine data from the Amsterdam secondary-school match with register data and data gathered through in-school surveys of students to estimate the effects of not receiving an offer from one's most-preferred school on academic outcomes and any other outcome that parents and/or students may care about. For identification we exploit that secondary-school assignment in Amsterdam uses the deferred acceptance algorithm with ties broken by lottery numbers. We focus on students assigned to the university track, where the probability not to receive an offer from the top-ranked school is highest. Losing the admission lottery for one's most-preferred school affects the characteristics, distance and peers of the school from which an offer is received and, due to high compliance, of the school of placement. Lottery losers are more likely to report that they would rather have attended another school. This effect is, however, small (22 percentage points) and only present in the first year after the lottery. Despite the different school environment, we find no negative effect on academic outcomes. Nor do we find negative effects on a range of other (groups of) outcomes including: time on homework, help with homework, attitudes towards school, awareness of parents, behavior inside school, behavior outside school, school satisfaction, civic engagement, having friends, and students' personality. Estimates are very similar for students assigned to schools ranked second, third or outside top-3. There are also no indications that specific groups of student (by gender, ethnicity, SES or ability) are harmed by losing the admission lottery. </div>
+
 ## Measuring Students’ Cardinal Preferences for Schools
 (joint with [Monique de Haan](http://www.moniquedehaan.nl/), [Pieter Gautier](https://sites.google.com/site/pietgautier/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
 
 <div style="text-align: justify"> Measuring students’ cardinal preferences for schools is essential for the evaluation of school choice policies. It is unclear, however, how to best measure cardinal preferences. The recent literature uses discrete choice models to estimate students’ cardinal preferences for schools. In this paper we compare such estimated measures to measures elicited through survey questions. While we find that the estimated and elicited measures are highly correlated and are determined by the same factors, results in terms of policy simulations are different. Specifically, we find that welfare effects are larger when measured through elicited measures than through estimated measures. This implies that evaluations based on estimated cardinal preferences are likely to underestimate the welfare implications of school choice policies. </div>
-
-## The (un)importance of School Choice
-(joint with [Nadine Ketel](https://sites.google.com/site/nadineketel/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
-
-## Strategic Mistakes in School Assignment: Biased Beliefs vs. Optimization Errors
-(joint with [Monique de Haan](http://www.moniquedehaan.nl/), [Pieter Gautier](https://sites.google.com/site/pietgautier/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
- 
