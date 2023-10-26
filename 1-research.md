@@ -4,7 +4,7 @@ title: Research
 ---
 # Publications
 
-## Dominated Choices under Deferred Acceptance Mechanism: The Effect of Admission Selectivity. Conditionally accepted at _Games and Economic Behavior_
+## Dominated Choices under Deferred Acceptance Mechanism: The Effect of Admission Selectivity. Accepted at _Games and Economic Behavior_
 (joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
 <div style="text-align: justify"> College applicants often make dominated choices even when a strategically simple mechanism such as deferred acceptance is in place. 
