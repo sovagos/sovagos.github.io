@@ -36,6 +36,11 @@ Extended abstract: ([link](https://dl.acm.org/doi/10.1145/3490486.3538369))
 
 # Working Papers
 
+## The (un)importance of School Assignment
+(joint with [Nadine Ketel](https://sites.google.com/site/nadineketel/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
+
+<div style="text-align: justify"> We combine data from the Amsterdam secondary-school match with register data and survey data to estimate the effects of not being assigned to one’s first-ranked school on academic outcomes and on a wide range of other outcomes. For identification we use that secondary-school assignment in Amsterdam is based on the deferred acceptance mechanism with ties broken by lottery numbers. Losing the admission lottery for one’s first-ranked school affects the characteristics of the assigned school, the home-school distance and the characteristics of teachers and peers. Despite the different school environment, we find no negative effects on academic outcomes, nor on any other outcome, including: time on homework, help with homework, attitudes towards school, awareness of parents, behavior inside school, behavior outside school, school satisfaction, civic engagement, having friends, and students’ personality. It seems therefore that the concerns that parents of lottery losers express about their children’s school assignment are based on the characteristics of schools, teachers and peers and not on academic or non-academic outcomes. </div>
+
 ## The Large Core of College Admission Markets: Theory and Evidence. Revise and resubmit at _Review of Economics and Statistics_
 (joint with [Péter Biró](http://www.econ.core.hu/english/inst/biro.html), [Avinatan Hassidim](http://u.cs.biu.ac.il/~avinatan/), [Assaf Romm](http://assafromm.weebly.com/), and [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
@@ -60,11 +65,6 @@ Media: [IZA Commentary](https://wol.iza.org/opinions/mergers-and-the-labor-marke
 Hoofdstuk 8 in H. van de Werfhorst en E. van Hest, Gelijke kansen in de stad, Amsterdam University Press.
 
 # Work in Progress
-## The (un)importance of School Assignment
-(joint with [Nadine Ketel](https://sites.google.com/site/nadineketel/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
-
-<div style="text-align: justify"> We combine data from the Amsterdam secondary-school match with register data and data gathered through in-school surveys of students to estimate the effects of not receiving an offer from one's most-preferred school on academic outcomes and any other outcome that parents and/or students may care about. For identification we exploit that secondary-school assignment in Amsterdam uses the deferred acceptance algorithm with ties broken by lottery numbers. We focus on students assigned to the university track, where the probability not to receive an offer from the top-ranked school is highest. Losing the admission lottery for one's most-preferred school affects the characteristics, distance and peers of the school from which an offer is received and, due to high compliance, of the school of placement. Lottery losers are more likely to report that they would rather have attended another school. This effect is, however, small (22 percentage points) and only present in the first year after the lottery. Despite the different school environment, we find no negative effect on academic outcomes. Nor do we find negative effects on a range of other (groups of) outcomes including: time on homework, help with homework, attitudes towards school, awareness of parents, behavior inside school, behavior outside school, school satisfaction, civic engagement, having friends, and students' personality. Estimates are very similar for students assigned to schools ranked second, third or outside top-3. There are also no indications that specific groups of student (by gender, ethnicity, SES or ability) are harmed by losing the admission lottery. </div>
-
 ## Measuring Students’ Cardinal Preferences for Schools
 (joint with [Monique de Haan](http://www.moniquedehaan.nl/), [Pieter Gautier](https://sites.google.com/site/pietgautier/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
 
