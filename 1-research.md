@@ -13,7 +13,7 @@ many college applicants make revealed dominated choices: they forgo the free opp
 
 </div> ([link](https://drive.google.com/file/d/1etPXCpiQ-cif8WHcL3MO3ii6Fh0TLzQl/view?usp=sharing))
 
-## Dominated Choices in a Strategically Simple College Admissions Environment. Accepted at _Journal of Political Economy: Microeconomics_
+## Dominated Choices in a Strategically Simple College Admissions Environment. _Journal of Political Economy: Microeconomics_ (2023)
 (joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
 <div style="text-align: justify">  Although many centralized school assignment systems use the strategically simple deferred acceptance mechanism, applicants often make dominated choices. Using administrative data from Hungary, we show that 11 percent of college applicants forgo the free opportunity to receive a tuition waiver. Between 12.3 and 18.7 percent of these dominated choices are consequential, costing 6,600 dollars on average. Our results suggest that dominated choices are more common when their expected utility cost is lower. Since tuition waivers are highly demanded, dominated choices increase the total number applicants assigned to college. 
