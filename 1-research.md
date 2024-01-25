@@ -4,14 +4,14 @@ title: Research
 ---
 # Publications
 
-## Dominated Choices under Deferred Acceptance Mechanism: The Effect of Admission Selectivity. Accepted at _Games and Economic Behavior_
+## Dominated Choices under Deferred Acceptance Mechanism: The Effect of Admission Selectivity. _Games and Economic Behavior_ (2024)
 (joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
 <div style="text-align: justify"> College applicants often make dominated choices even when a strategically simple mechanism such as deferred acceptance is in place. 
 We study Hungarian college admissions, where deferred acceptance is used, and still
 many college applicants make revealed dominated choices: they forgo the free opportunity to receive a tuition waiver.  Using two empirical strategies, we show that when admission with a tuition waiver becomes more selective, applicants make more revealed dominated choices. Our results suggest that dominated choices respond to economic incentives. 
 
-</div> ([link](https://drive.google.com/file/d/1etPXCpiQ-cif8WHcL3MO3ii6Fh0TLzQl/view?usp=sharing))
+</div> ([link](https://doi.org/10.1016/j.geb.2024.01.002))
 
 ## Dominated Choices in a Strategically Simple College Admissions Environment. _Journal of Political Economy: Microeconomics_ (2023)
 (joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
