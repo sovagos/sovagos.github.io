@@ -4,6 +4,12 @@ title: Research
 ---
 # Publications
 
+## The Large Core of College Admission Markets: Theory and Evidence. Conditionally accepted at _Review of Economics and Statistics_
+(joint with [Péter Biró](http://www.econ.core.hu/english/inst/biro.html), [Avinatan Hassidim](http://u.cs.biu.ac.il/~avinatan/), [Assaf Romm](http://assafromm.weebly.com/), and [Ran I. Shorrer](http://rshorrer.weebly.com/))
+
+<div style="text-align: justify"> We study stable allocations in college admissions markets where students can attend. the same college under different financial terms. The deferred acceptance algorithm identifies a stable allocation where funding is allocated based on merit. While merit-based stable allocations assign the same students to college, non-merit-based stable allocations may differ in the number of students assigned to college. In large markets, this possibility requires heterogeneity in applicants’ sensitivity to financial terms. In Hungary, where such heterogeneity is present, a non-merit-based stable allocation would increase the number of assigned applicants by 1.9%, and affect 8.3% of the applicants relative to any merit-based stable allocation. These findings contrast sharply with findings from the matching (without contracts) literature. </div>
+
+
 ## Dominated Choices under Deferred Acceptance Mechanism: The Effect of Admission Selectivity. _Games and Economic Behavior_ (2024)
 (joint with [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
@@ -43,12 +49,7 @@ Extended abstract: ([link](https://dl.acm.org/doi/10.1145/3490486.3538369))
 
 </div> ([link]([https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu&culture=en-us&country=us&WT.mc_id=academic-105485-koreyst](https://www.dropbox.com/scl/fi/wuizqz0kyja786majxhz1/unimportance2023nov.pdf?rlkey=ibrot9fcbb7mllcjlh2if4sgr&dl=0)))
 
-## The Large Core of College Admission Markets: Theory and Evidence. Revise and resubmit at _Review of Economics and Statistics_
-(joint with [Péter Biró](http://www.econ.core.hu/english/inst/biro.html), [Avinatan Hassidim](http://u.cs.biu.ac.il/~avinatan/), [Assaf Romm](http://assafromm.weebly.com/), and [Ran I. Shorrer](http://rshorrer.weebly.com/))
-
-<div style="text-align: justify"> We study stable allocations in college admissions markets where students can attend. the same college under different financial terms. The deferred acceptance algorithm identifies a stable allocation where funding is allocated based on merit. While merit-based stable allocations assign the same students to college, non-merit-based stable allocations may differ in the number of students assigned to college. In large markets, this possibility requires heterogeneity in applicants’ sensitivity to financial terms. In Hungary, where such heterogeneity is present, a non-merit-based stable allocation would increase the number of assigned applicants by 1.9%, and affect 8.3% of the applicants relative to any merit-based stable allocation. These findings contrast sharply with findings from the matching (without contracts) literature. </div>
-
-## Firm Consolidations and Labor Market Outcomes. Revise and resubmit at _Journal of Economic Behavior and Organization_
+## Firm Consolidations and Labor Market Outcomes. Resubmitted at _Journal of Economic Behavior and Organization_
 (joint with [Sabien Dobbelaere](https://sites.google.com/site/sabiendobbelaere/), [Grace McCormack](https://sites.google.com/site/gracemccormackresearch/home?authuser=0), and [Daniel Prinz](https://sites.google.com/view/danielprinz/))
 
 <div style="text-align: justify"> Using rich administrative data from the Netherlands, we study the consequences of firm consolidation for workers. For workers at acquired firms, takeovers are associated with a 8.5% drop in employment at the consolidated firm and a 2.6% drop in total labor income. These effects are persistent even four years later. We show that the primary mechanism for this job loss is labor restructuring at consolidating firms. Specifically, workers with higher-than-expected pay relative to their human capital and workers with skills that are likely already present at acquirers are less likely to be retained. </div> ([link](https://docs.iza.org/dp15724.pdf))
