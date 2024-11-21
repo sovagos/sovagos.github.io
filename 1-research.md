@@ -4,7 +4,7 @@ title: Research
 ---
 # Publications
 
-## The Large Core of College Admission Markets: Theory and Evidence. Conditionally accepted at _Review of Economics and Statistics_
+## The Large Core of College Admission Markets: Theory and Evidence. Accepted at _Review of Economics and Statistics_
 (joint with [Péter Biró](http://www.econ.core.hu/english/inst/biro.html), [Avinatan Hassidim](http://u.cs.biu.ac.il/~avinatan/), [Assaf Romm](http://assafromm.weebly.com/), and [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
 <div style="text-align: justify"> We study stable allocations in college admissions markets where students can attend. the same college under different financial terms. The deferred acceptance algorithm identifies a stable allocation where funding is allocated based on merit. While merit-based stable allocations assign the same students to college, non-merit-based stable allocations may differ in the number of students assigned to college. In large markets, this possibility requires heterogeneity in applicants’ sensitivity to financial terms. In Hungary, where such heterogeneity is present, a non-merit-based stable allocation would increase the number of assigned applicants by 1.9%, and affect 8.3% of the applicants relative to any merit-based stable allocation. These findings contrast sharply with findings from the matching (without contracts) literature. </div>
