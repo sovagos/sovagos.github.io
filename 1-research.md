@@ -4,6 +4,14 @@ title: Research
 ---
 # Publications
 
+## Firm Consolidations and Labor Market Outcomes. Accepted at _Journal of Economic Behavior and Organization_
+(joint with [Sabien Dobbelaere](https://sites.google.com/site/sabiendobbelaere/), [Grace McCormack](https://sites.google.com/site/gracemccormackresearch/home?authuser=0), and [Daniel Prinz](https://sites.google.com/view/danielprinz/))
+
+<div style="text-align: justify"> Using rich administrative data from the Netherlands, we study the consequences of firm consolidation for workers. For workers at acquired firms, takeovers are associated with a 8.5% drop in employment at the consolidated firm and a {2.6\%} drop in total labor income. These effects persist even four years after the takeover and are consistent with job losses driven by involuntary separations. Few takeovers change labor market concentration meaningfully. Instead, restructuring at consolidating firms is likely to be an important mechanism behind our findings. Specifically, workers with skills that are already present at acquirers are less likely to be retained and overtime hours and part-time work are reduced. </div> ([link](https://docs.iza.org/dp15724.pdf))
+
+Media: [IZA Commentary](https://wol.iza.org/opinions/mergers-and-the-labor-market), [VOXEU](https://cepr.org/voxeu/columns/firm-consolidation-and-labour-market-outcomes), [Pro Market](https://www.promarket.org/2023/07/31/firm-consolidations-hurt-workers-but-likely-not-because-of-market-power/)
+
+
 ## The Large Core of College Admission Markets: Theory and Evidence. Accepted at _Review of Economics and Statistics_
 (joint with [Péter Biró](http://www.econ.core.hu/english/inst/biro.html), [Avinatan Hassidim](http://u.cs.biu.ac.il/~avinatan/), [Assaf Romm](http://assafromm.weebly.com/), and [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
@@ -48,13 +56,6 @@ Extended abstract: ([link](https://dl.acm.org/doi/10.1145/3490486.3538369))
 <div style="text-align: justify"> We combine data from the Amsterdam secondary-school match with register data and survey data to estimate the effects of not being assigned to one’s first-ranked school on academic outcomes and on a wide range of other outcomes. For identification we use that secondary-school assignment in Amsterdam is based on the deferred acceptance mechanism with ties broken by lottery numbers. Losing the admission lottery for one’s first-ranked school affects the characteristics of the assigned school, the home-school distance and the characteristics of teachers and peers. Despite the different school environment, we find no negative effects on academic outcomes, nor on any other outcome, including: time on homework, help with homework, attitudes towards school, awareness of parents, behavior inside school, behavior outside school, school satisfaction, civic engagement, having friends, and students’ personality. It seems therefore that the concerns that parents of lottery losers express about their children’s school assignment are based on the characteristics of schools, teachers and peers and not on academic or non-academic outcomes. 
 
 </div> ([link]([https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu&culture=en-us&country=us&WT.mc_id=academic-105485-koreyst](https://www.dropbox.com/scl/fi/wuizqz0kyja786majxhz1/unimportance2023nov.pdf?rlkey=ibrot9fcbb7mllcjlh2if4sgr&dl=0)))
-
-## Firm Consolidations and Labor Market Outcomes. Resubmitted at _Journal of Economic Behavior and Organization_
-(joint with [Sabien Dobbelaere](https://sites.google.com/site/sabiendobbelaere/), [Grace McCormack](https://sites.google.com/site/gracemccormackresearch/home?authuser=0), and [Daniel Prinz](https://sites.google.com/view/danielprinz/))
-
-<div style="text-align: justify"> Using rich administrative data from the Netherlands, we study the consequences of firm consolidation for workers. For workers at acquired firms, takeovers are associated with a 8.5% drop in employment at the consolidated firm and a 2.6% drop in total labor income. These effects are persistent even four years later. We show that the primary mechanism for this job loss is labor restructuring at consolidating firms. Specifically, workers with higher-than-expected pay relative to their human capital and workers with skills that are likely already present at acquirers are less likely to be retained. </div> ([link](https://docs.iza.org/dp15724.pdf))
-
-Media: [IZA Commentary](https://wol.iza.org/opinions/mergers-and-the-labor-market), [VOXEU](https://cepr.org/voxeu/columns/firm-consolidation-and-labour-market-outcomes), [Pro Market](https://www.promarket.org/2023/07/31/firm-consolidations-hurt-workers-but-likely-not-because-of-market-power/)
 
 ## Do Elite Schools Benefit their Students?
 (joint with [János Divényi](https://divenyijanos.github.io/))
