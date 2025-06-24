@@ -4,7 +4,7 @@ title: Research
 ---
 # Publications
 
-## Firm Consolidations and Labor Market Outcomes. Accepted at _Journal of Economic Behavior and Organization_ (2025)
+## Firm Consolidations and Labor Market Outcomes. _Journal of Economic Behavior and Organization_ (2025)
 (joint with [Sabien Dobbelaere](https://sites.google.com/site/sabiendobbelaere/), [Grace McCormack](https://sites.google.com/site/gracemccormackresearch/home?authuser=0), and [Daniel Prinz](https://sites.google.com/view/danielprinz/))
 
 <div style="text-align: justify"> Using rich administrative data from the Netherlands, we study the consequences of firm consolidation for workers. For workers at acquired firms, takeovers are associated with a 8.5% drop in employment at the consolidated firm and a 2.6% drop in total labor income. These effects persist even four years after the takeover and are consistent with job losses driven by involuntary separations. Few takeovers change labor market concentration meaningfully. Instead, restructuring at consolidating firms is likely to be an important mechanism behind our findings. Specifically, workers with skills that are already present at acquirers are less likely to be retained and overtime hours and part-time work are reduced. </div> ([link](https://www.sciencedirect.com/science/article/pii/S0167268125001556?via%3Dihub))
