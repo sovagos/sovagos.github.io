@@ -4,18 +4,21 @@ title: Research
 ---
 # Publications
 
-## Students’ School Preferences and Outcomes: Evidence from Admission Lotteries. R\&R at The Economic Journal
+## Students’ School Preferences and Outcomes: Evidence from Admission Lotteries. R&R at _The Economic Journal_
 (joint with [Nadine Ketel](https://sites.google.com/site/nadineketel/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
 
 <div style="text-align: justify"> School choice may improve student-school matches but may also increase segregation. Using administrative and survey data from Amsterdam, we study whether attending a preferred
-secondary school improves a comprehensive set of academic and non-academic outcomes. Exploiting admission lotteries in the city’s matching system, we compare students who win or lose access to their preferred schools. Lottery losers attend schools with more disadvantaged, more diverse peers and lower value added measures. Yet we find no evidence that preferredschool attendance improves outcomes. Students assigned to less preferred schools show greater social civic engagement, underscoring school assignment’s role in social integration.</div>
+secondary school improves a comprehensive set of academic and non-academic outcomes. Exploiting admission lotteries in the city’s matching system, we compare students who win or lose access to their preferred schools. Lottery losers attend schools with more disadvantaged, more diverse peers and lower value added measures. Yet we find no evidence that preferredschool attendance improves outcomes. Students assigned to less preferred schools show greater social civic engagement, underscoring school assignment’s role in social integration. 
 
 </div> ([link](https://drive.google.com/file/d/1NG0R6msnFAKYgvDLIA-osJTzM6DsiEBv/view?usp=sharing))
+
 
 ## Firm Consolidations and Labor Market Outcomes. _Journal of Economic Behavior and Organization_ (2025)
 (joint with [Sabien Dobbelaere](https://sites.google.com/site/sabiendobbelaere/), [Grace McCormack](https://sites.google.com/site/gracemccormackresearch/home?authuser=0), and [Daniel Prinz](https://sites.google.com/view/danielprinz/))
 
-<div style="text-align: justify"> Using rich administrative data from the Netherlands, we study the consequences of firm consolidation for workers. For workers at acquired firms, takeovers are associated with a 8.5% drop in employment at the consolidated firm and a 2.6% drop in total labor income. These effects persist even four years after the takeover and are consistent with job losses driven by involuntary separations. Few takeovers change labor market concentration meaningfully. Instead, restructuring at consolidating firms is likely to be an important mechanism behind our findings. Specifically, workers with skills that are already present at acquirers are less likely to be retained and overtime hours and part-time work are reduced. </div> ([link](https://www.sciencedirect.com/science/article/pii/S0167268125001556?via%3Dihub)) </div>
+<div style="text-align: justify"> Using rich administrative data from the Netherlands, we study the consequences of firm consolidation for workers. For workers at acquired firms, takeovers are associated with a 8.5% drop in employment at the consolidated firm and a 2.6% drop in total labor income. These effects persist even four years after the takeover and are consistent with job losses driven by involuntary separations. Few takeovers change labor market concentration meaningfully. Instead, restructuring at consolidating firms is likely to be an important mechanism behind our findings. Specifically, workers with skills that are already present at acquirers are less likely to be retained and overtime hours and part-time work are reduced. 
+
+</div> ([link](https://www.sciencedirect.com/science/article/pii/S0167268125001556?via%3Dihub))
 
 Media: [IZA Commentary](https://wol.iza.org/opinions/mergers-and-the-labor-market), [VOXEU](https://cepr.org/voxeu/columns/firm-consolidation-and-labour-market-outcomes), [Pro Market](https://www.promarket.org/2023/07/31/firm-consolidations-hurt-workers-but-likely-not-because-of-market-power/)
 
