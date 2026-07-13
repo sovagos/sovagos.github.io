@@ -4,10 +4,18 @@ title: Research
 ---
 # Publications
 
+## Students’ School Preferences and Outcomes: Evidence from Admission Lotteries. R\&R at The Economic Journal
+(joint with [Nadine Ketel](https://sites.google.com/site/nadineketel/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
+
+<div style="text-align: justify"> School choice may improve student-school matches but may also increase segregation. Using administrative and survey data from Amsterdam, we study whether attending a preferred
+secondary school improves a comprehensive set of academic and non-academic outcomes. Exploiting admission lotteries in the city’s matching system, we compare students who win or lose access to their preferred schools. Lottery losers attend schools with more disadvantaged, more diverse peers and lower value added measures. Yet we find no evidence that preferredschool attendance improves outcomes. Students assigned to less preferred schools show greater social civic engagement, underscoring school assignment’s role in social integration.</div>
+
+</div> ([link](https://drive.google.com/file/d/1NG0R6msnFAKYgvDLIA-osJTzM6DsiEBv/view?usp=sharing))
+
 ## Firm Consolidations and Labor Market Outcomes. _Journal of Economic Behavior and Organization_ (2025)
 (joint with [Sabien Dobbelaere](https://sites.google.com/site/sabiendobbelaere/), [Grace McCormack](https://sites.google.com/site/gracemccormackresearch/home?authuser=0), and [Daniel Prinz](https://sites.google.com/view/danielprinz/))
 
-<div style="text-align: justify"> Using rich administrative data from the Netherlands, we study the consequences of firm consolidation for workers. For workers at acquired firms, takeovers are associated with a 8.5% drop in employment at the consolidated firm and a 2.6% drop in total labor income. These effects persist even four years after the takeover and are consistent with job losses driven by involuntary separations. Few takeovers change labor market concentration meaningfully. Instead, restructuring at consolidating firms is likely to be an important mechanism behind our findings. Specifically, workers with skills that are already present at acquirers are less likely to be retained and overtime hours and part-time work are reduced. </div> ([link](https://www.sciencedirect.com/science/article/pii/S0167268125001556?via%3Dihub))
+<div style="text-align: justify"> Using rich administrative data from the Netherlands, we study the consequences of firm consolidation for workers. For workers at acquired firms, takeovers are associated with a 8.5% drop in employment at the consolidated firm and a 2.6% drop in total labor income. These effects persist even four years after the takeover and are consistent with job losses driven by involuntary separations. Few takeovers change labor market concentration meaningfully. Instead, restructuring at consolidating firms is likely to be an important mechanism behind our findings. Specifically, workers with skills that are already present at acquirers are less likely to be retained and overtime hours and part-time work are reduced. </div> ([link](https://www.sciencedirect.com/science/article/pii/S0167268125001556?via%3Dihub)) </div>
 
 Media: [IZA Commentary](https://wol.iza.org/opinions/mergers-and-the-labor-market), [VOXEU](https://cepr.org/voxeu/columns/firm-consolidation-and-labour-market-outcomes), [Pro Market](https://www.promarket.org/2023/07/31/firm-consolidations-hurt-workers-but-likely-not-because-of-market-power/)
 
@@ -49,13 +57,6 @@ Media: [Vox Podcast](https://voxeu.org/vox-talks/why-are-schools-segregated)
 Extended abstract: ([link](https://dl.acm.org/doi/10.1145/3490486.3538369))  
 
 # Working Papers
-
-## The (un)importance of School Assignment
-(joint with [Nadine Ketel](https://sites.google.com/site/nadineketel/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
-
-<div style="text-align: justify"> We combine data from the Amsterdam secondary-school match with register data and survey data to estimate the effects of not being assigned to one’s first-ranked school on academic outcomes and on a wide range of other outcomes. For identification we use that secondary-school assignment in Amsterdam is based on the deferred acceptance mechanism with ties broken by lottery numbers. Losing the admission lottery for one’s first-ranked school affects the characteristics of the assigned school, the home-school distance and the characteristics of teachers and peers. Despite the different school environment, we find no negative effects on academic outcomes, nor on any other outcome, including: time on homework, help with homework, attitudes towards school, awareness of parents, behavior inside school, behavior outside school, school satisfaction, civic engagement, having friends, and students’ personality. It seems therefore that the concerns that parents of lottery losers express about their children’s school assignment are based on the characteristics of schools, teachers and peers and not on academic or non-academic outcomes. 
-
-</div> ([link]([https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu&culture=en-us&country=us&WT.mc_id=academic-105485-koreyst](https://www.dropbox.com/scl/fi/wuizqz0kyja786majxhz1/unimportance2023nov.pdf?rlkey=ibrot9fcbb7mllcjlh2if4sgr&dl=0)))
 
 ## Do Elite Schools Benefit their Students?
 (joint with [János Divényi](https://divenyijanos.github.io/))
