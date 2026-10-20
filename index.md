@@ -7,11 +7,11 @@ layout: default
   <col width="80%">
   <tr>
     <td><img src="{{ site.url }}/images/IMG_5500-Bearbeitet_potre.jpg" alt="picture" style="width:90%;" ></td>
-    <td align = "justify"> Welcome, <br> <br> I am an Area Tech Lead of Intelligence at <a href="https://emarsys.com/">Emarsys</a>. </td> 
+    <td align = "justify"> Welcome, <br> <br> I am a Senior Engineering Manager at <a href="https://seon.io/">SEON</a>. </td> 
   </tr>
   <tr>
     <td></td>
-    <td align = "justify"><br> Before getting into Data Science, I earned a PhD in Economics and did research as an Assistant Professor at the <a href="https://www.rug.nl/research/eef/">University of Groningen</a>. I am excited about applied microeconomics, especially when it is about measuring the impact of education policies. Even though I do not officially work as an academic, I love spending my time on my reseach projects. </td> 
+    <td align = "justify"><br> I earned a PhD in Economics and did research as an Assistant Professor at the <a href="https://www.rug.nl/research/eef/">University of Groningen</a>. I am excited about applied microeconomics, especially when it is about measuring the impact of education policies. </td> 
      </tr>
     <tr>
     <td></td>
