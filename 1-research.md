@@ -1,4 +1,4 @@
----
+ ---
 layout: default
 title: Research
 ---
@@ -61,19 +61,22 @@ Extended abstract: ([link](https://dl.acm.org/doi/10.1145/3490486.3538369))
 
 # Working Papers
 
+## Strategic Mistakes in School Assignment: Biased Beliefs versus Optimization Errors
+(joint with [Monique de Haan](http://www.moniquedehaan.nl/), [Pieter Gautier](https://sites.google.com/site/pietgautier/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
+
+<div style="text-align: justify"> n theory, the Boston mechanism can yield higher student welfare than strategy-proof deferred acceptance (DA), but empirical studies find the opposite and attribute this to strategic mistakes. We use survey and register data from the 2016 secondary-school match in Utrecht to separate biased beliefs from optimization errors. We find that 18.1% of students make a strategic mistake. About two thirds of these are optimization errors, which account for 85% of the welfare loss. Information about admission chances therefore helps little. Boston yields lower welfare than DA under actual choices and no higher welfare under optimal play. The results favor DA. </div>
+
+</div> ([link](https://drive.google.com/file/d/1o8Ak_C6AzonfoHOFkfMyvyKz-l1WeBVx/view?usp=drive_link))
+
+
 ## Do Elite Schools Benefit their Students?
 (joint with [János Divényi](https://divenyijanos.github.io/))
 
 <div style="text-align: justify">  This paper studies how enrollment in an elite school affects elite-school students' academic achievement in Hungary. Enrollment in a Hungarian elite school entails having academically stronger peers, a more-advanced, higher-paced curriculum, and teachers of high-qualification. Using non-parametric bounds, we show that enrollment in an elite school decreases female and low-ability students' mathematics test scores two years after enrollment. School value-added estimates, which lie within our non-parametric bounds, show that the negative short-run effects reverse four years after enrollment. These positive effects are concentrated at the upper end of the outcome distribution and they are stronger for high-ability students. </div> ([link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759304))
+
 
 # Book Chapters
 ## Oorzaken van schoolsegregatie in Amsterdam (in Dutch)
 (joint with [Hessel Oosterbeek](http://oosterbeek.economists.nl/) and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/)) 
 
 Hoofdstuk 8 in H. van de Werfhorst en E. van Hest, Gelijke kansen in de stad, Amsterdam University Press.
-
-# Work in Progress
-## Measuring Students’ Cardinal Preferences for Schools
-(joint with [Monique de Haan](http://www.moniquedehaan.nl/), [Pieter Gautier](https://sites.google.com/site/pietgautier/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
-
-<div style="text-align: justify"> Measuring students’ cardinal preferences for schools is essential for the evaluation of school choice policies. It is unclear, however, how to best measure cardinal preferences. The recent literature uses discrete choice models to estimate students’ cardinal preferences for schools. In this paper we compare such estimated measures to measures elicited through survey questions. While we find that the estimated and elicited measures are highly correlated and are determined by the same factors, results in terms of policy simulations are different. Specifically, we find that welfare effects are larger when measured through elicited measures than through estimated measures. This implies that evaluations based on estimated cardinal preferences are likely to underestimate the welfare implications of school choice policies. </div>
