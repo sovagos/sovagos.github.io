@@ -6,7 +6,9 @@ title: CV
 ## Summary
 ### Employment
 
- * 2023- : Area Tech Lead of Intelligence, Emarsys Technologies, Budapest
+ * 2026-     : Senior Engineering Manager, SEON Technologies, Budapest
+ * 2024-     : Postdoctoral Researcher, Vrije Universiteit Amsterdam
+ * 2023-2026 : Area Tech Lead of Intelligence, Emarsys Technologies, Budapest
  * 2021-2023 : Senior Data Scientist at AI and Analytics Teams, Emarsys Technologies, Budapest
 
 ### Education
