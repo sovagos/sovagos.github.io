@@ -4,15 +4,6 @@ title: Research
 ---
 # Publications
 
-## Students’ School Preferences and Outcomes: Evidence from Admission Lotteries. R&R at _The Economic Journal_
-(joint with [Nadine Ketel](https://sites.google.com/site/nadineketel/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
-
-<div style="text-align: justify"> School choice may improve student-school matches but may also increase segregation. Using administrative and survey data from Amsterdam, we study whether attending a preferred
-secondary school improves a comprehensive set of academic and non-academic outcomes. Exploiting admission lotteries in the city’s matching system, we compare students who win or lose access to their preferred schools. Lottery losers attend schools with more disadvantaged, more diverse peers and lower value added measures. Yet we find no evidence that preferredschool attendance improves outcomes. Students assigned to less preferred schools show greater social civic engagement, underscoring school assignment’s role in social integration. 
-
-</div> ([link](https://drive.google.com/file/d/1NG0R6msnFAKYgvDLIA-osJTzM6DsiEBv/view?usp=sharing))
-
-
 ## Firm Consolidations and Labor Market Outcomes. _Journal of Economic Behavior and Organization_ (2025)
 (joint with [Sabien Dobbelaere](https://sites.google.com/site/sabiendobbelaere/), [Grace McCormack](https://sites.google.com/site/gracemccormackresearch/home?authuser=0), and [Daniel Prinz](https://sites.google.com/view/danielprinz/))
 
@@ -26,7 +17,9 @@ Media: [IZA Commentary](https://wol.iza.org/opinions/mergers-and-the-labor-marke
 ## The Large Core of College Admission Markets: Theory and Evidence. Accepted at _Review of Economics and Statistics_
 (joint with [Péter Biró](http://www.econ.core.hu/english/inst/biro.html), [Avinatan Hassidim](http://u.cs.biu.ac.il/~avinatan/), [Assaf Romm](http://assafromm.weebly.com/), and [Ran I. Shorrer](http://rshorrer.weebly.com/))
 
-<div style="text-align: justify"> We study stable allocations in college admissions markets where students can attend. the same college under different financial terms. The deferred acceptance algorithm identifies a stable allocation where funding is allocated based on merit. While merit-based stable allocations assign the same students to college, non-merit-based stable allocations may differ in the number of students assigned to college. In large markets, this possibility requires heterogeneity in applicants’ sensitivity to financial terms. In Hungary, where such heterogeneity is present, a non-merit-based stable allocation would increase the number of assigned applicants by 1.9%, and affect 8.3% of the applicants relative to any merit-based stable allocation. These findings contrast sharply with findings from the matching (without contracts) literature. </div>
+<div style="text-align: justify"> We study stable allocations in college admissions markets where students can attend. the same college under different financial terms. The deferred acceptance algorithm identifies a stable allocation where funding is allocated based on merit. While merit-based stable allocations assign the same students to college, non-merit-based stable allocations may differ in the number of students assigned to college. In large markets, this possibility requires heterogeneity in applicants’ sensitivity to financial terms. In Hungary, where such heterogeneity is present, a non-merit-based stable allocation would increase the number of assigned applicants by 1.9%, and affect 8.3% of the applicants relative to any merit-based stable allocation. These findings contrast sharply with findings from the matching (without contracts) literature. 
+
+</div> ([link](https://direct.mit.edu/rest/article-abstract/doi/10.1162/REST.a.1628/133694/The-Large-Core-of-College-Admission-Markets-Theory?redirectedFrom=fulltext))
 
 
 ## Dominated Choices under Deferred Acceptance Mechanism: The Effect of Admission Selectivity. _Games and Economic Behavior_ (2024)
@@ -61,13 +54,20 @@ Extended abstract: ([link](https://dl.acm.org/doi/10.1145/3490486.3538369))
 
 # Working Papers
 
+## Students’ School Preferences and Outcomes: Evidence from Admission Lotteries. R&R at _The Economic Journal_
+(joint with [Nadine Ketel](https://sites.google.com/site/nadineketel/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
+
+<div style="text-align: justify"> School choice may improve student-school matches but may also increase segregation. Using administrative and survey data from Amsterdam, we study whether attending a preferred
+secondary school improves a comprehensive set of academic and non-academic outcomes. Exploiting admission lotteries in the city’s matching system, we compare students who win or lose access to their preferred schools. Lottery losers attend schools with more disadvantaged, more diverse peers and lower value added measures. Yet we find no evidence that preferredschool attendance improves outcomes. Students assigned to less preferred schools show greater social civic engagement, underscoring school assignment’s role in social integration. 
+
+</div> ([link](https://drive.google.com/file/d/1NG0R6msnFAKYgvDLIA-osJTzM6DsiEBv/view?usp=sharing))
+
 ## Strategic Mistakes in School Assignment: Biased Beliefs versus Optimization Errors
 (joint with [Monique de Haan](http://www.moniquedehaan.nl/), [Pieter Gautier](https://sites.google.com/site/pietgautier/), [Hessel Oosterbeek](http://oosterbeek.economists.nl/), and [Bas van der Klaauw](http://personal.vu.nl/b.vander.klaauw/))
 
-<div style="text-align: justify"> n theory, the Boston mechanism can yield higher student welfare than strategy-proof deferred acceptance (DA), but empirical studies find the opposite and attribute this to strategic mistakes. We use survey and register data from the 2016 secondary-school match in Utrecht to separate biased beliefs from optimization errors. We find that 18.1% of students make a strategic mistake. About two thirds of these are optimization errors, which account for 85% of the welfare loss. Information about admission chances therefore helps little. Boston yields lower welfare than DA under actual choices and no higher welfare under optimal play. The results favor DA. </div>
+<div style="text-align: justify"> In theory, the Boston mechanism can yield higher student welfare than strategy-proof deferred acceptance (DA), but empirical studies find the opposite and attribute this to strategic mistakes. We use survey and register data from the 2016 secondary-school match in Utrecht to separate biased beliefs from optimization errors. We find that 18.1% of students make a strategic mistake. About two thirds of these are optimization errors, which account for 85% of the welfare loss. Information about admission chances therefore helps little. Boston yields lower welfare than DA under actual choices and no higher welfare under optimal play. The results favor DA.
 
 </div> ([link](https://drive.google.com/file/d/1o8Ak_C6AzonfoHOFkfMyvyKz-l1WeBVx/view?usp=drive_link))
-
 
 ## Do Elite Schools Benefit their Students?
 (joint with [János Divényi](https://divenyijanos.github.io/))
